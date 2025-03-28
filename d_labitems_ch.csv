@@ -1,0 +1,1651 @@
+﻿category,fluid,itemid,label_ch,label,hosp_counts,icu_counts
+Blood Gas,Blood,50801,肺泡-动脉梯度,Alveolar-arterial Gradient,8218,5600
+Blood Gas,Blood,50802,酸碱平衡基础过剩,Base Excess,71154,45579
+Blood Gas,Blood,50803,计算血液碳酸氢盐,"Calculated Bicarbonate, Whole Blood",26046,4979
+Blood Gas,Blood,50804,计算总二氧化碳,Calculated Total CO2,71154,45577
+Blood Gas,Blood,50805,羰基血红蛋白,Carboxyhemoglobin,6037,1350
+Blood Gas,Blood,50806,全血氯浓度,"Chloride, Whole Blood",51335,23612
+Blood Gas,Blood,50808,游离钙,Free Calcium,50478,36048
+Blood Gas,Blood,50809,葡萄糖,Glucose,59056,29004
+Blood Gas,Blood,50810,计算后的红细胞压积,"Hematocrit, Calculated",45734,24565
+Blood Gas,Blood,50811,血红蛋白,Hemoglobin,45734,24565
+Blood Gas,Blood,50812,插管,Intubated,45990,32944
+Blood Gas,Blood,50813,乳酸,Lactate,136279,46725
+Blood Gas,Blood,50814,血红素蛋白,Methemoglobin,5078,1204
+Blood Gas,Blood,50815,O2流速,O2 Flow,7483,5497
+Blood Gas,Blood,50816,氧气,Oxygen,21684,16507
+Blood Gas,Blood,50817,氧饱和度,Oxygen Saturation,42321,26736
+Blood Gas,Blood,50818,二氧化碳分压,pCO2,71136,45575
+Blood Gas,Blood,50819,呼出气末正压,PEEP,16169,13474
+Blood Gas,Blood,50820,pH值,pH,75703,46646
+Blood Gas,Blood,50821,氧分压,pO2,71135,45576
+Blood Gas,Blood,50822,全血钾浓度,"Potassium, Whole Blood",82236,30967
+Blood Gas,Blood,50823,所需氧气,Required O2,8225,5604
+Blood Gas,Blood,50824,全血钠浓度,"Sodium, Whole Blood",55749,26216
+Blood Gas,Blood,50825,体温,Temperature,25065,20416
+Blood Gas,Blood,50826,潮气量,Tidal Volume,16242,12327
+Blood Gas,Blood,50827,换气率,Ventilation Rate,18064,14003
+Blood Gas,Blood,50828,呼吸机,Ventilator,27913,21981
+Blood Gas,Other Body Fluid,50829,液体类型,Fluid Type,0,0
+Blood Gas,Other Body Fluid,50830,体液中的pCO2,"pCO2, Body Fluid",2,0
+Blood Gas,Other Body Fluid,50831,pH值,pH,4452,1813
+Blood Gas,Other Body Fluid,50832,体液中的氧分压,"pO2, Body Fluid",2,0
+Blood Gas,Other Body Fluid,50833,钾,Potassium,0,0
+Blood Gas,Other Body Fluid,50834,体液中的钠,"Sodium, Body Fluid",0,0
+Chemistry,Ascites,50835,腹水中的白蛋白,"Albumin, Ascites",3726,1583
+Chemistry,Ascites,50836,腹水中的淀粉酶,"Amylase, Ascites",2588,969
+Chemistry,Ascites,50837,腹水中的碳酸氢盐,"Bicarbonate, Ascites",31,17
+Chemistry,Ascites,50838,腹水中的总胆红素,"Bilirubin, Total, Ascites",1930,868
+Chemistry,Ascites,50839,腹水中的氯离子,"Chloride, Ascites",34,18
+Chemistry,Ascites,50840,腹水中的胆固醇,"Cholesterol, Ascites",59,21
+Chemistry,Ascites,50841,腹水中的肌酐,"Creatinine, Ascites",2055,690
+Chemistry,Ascites,50842,腹水中的葡萄糖,"Glucose, Ascites",3263,1244
+Chemistry,Ascites,50843,腹水中的乳酸脱氢酶,"Lactate Dehydrogenase, Ascites",2761,1182
+Chemistry,Ascites,50844,腹水中的脂肪酶,"Lipase, Ascites",108,43
+Chemistry,Ascites,50845,腹水中的其他物质,"Miscellaneous, Ascites",36,12
+Chemistry,Ascites,50846,腹水中的渗透压,"Osmolality, Ascites",5,3
+Chemistry,Ascites,50847,腹水中的钾离子,"Potassium, Ascites",37,20
+Chemistry,Ascites,50848,腹水中的钠离子,"Sodium, Ascites",46,22
+Chemistry,Ascites,50849,腹水中的总蛋白,"Total Protein, Ascites",4010,1604
+Chemistry,Ascites,50850,腹水中的甘油三酯,"Triglycerides, Ascites",378,153
+Chemistry,Ascites,50851,腹水中的尿素氮,"Urea Nitrogen, Ascites",29,17
+Chemistry,Blood,50852,%糖化血红蛋白,% Hemoglobin A1c,96154,15407
+Chemistry,Blood,50853,25-羟基维生素D,25-OH Vitamin D,41062,2611
+Chemistry,Blood,50854,绝对A1c百分率,Absolute A1c,515,0
+Chemistry,Blood,50855,绝对血红蛋白含量,Absolute Hemoglobin,515,0
+Chemistry,Blood,50856,对乙酰氨基酚,Acetaminophen,67927,5137
+Chemistry,Blood,50857,丙酮,Acetone,1334,345
+Chemistry,Blood,50858,酸性磷酸酶,Acid Phosphatase,0,0
+Chemistry,Blood,50859,非前列腺酸性磷酸酶,"Acid Phosphatase, Non-Prostatic",0,0
+Chemistry,Blood,50860,母体血清甲胎蛋白检测,"AFP, Maternal Screen",0,0
+Chemistry,Blood,50861,丙氨酸氨基转移酶（ALT）,Alanine Aminotransferase (ALT),201979,45166
+Chemistry,Blood,50862,白蛋白,Albumin,166467,38697
+Chemistry,Blood,50863,碱性磷酸酶,Alkaline Phosphatase,188629,44665
+Chemistry,Blood,50864,阿尔法胎蛋白,Alpha-Fetoprotein,9742,1144
+Chemistry,Blood,50865,阿米卡星,Amikacin,131,93
+Chemistry,Blood,50866,氨,Ammonia,4868,2131
+Chemistry,Blood,50867,淀粉酶,Amylase,36605,10464
+Chemistry,Blood,50868,阴离子间隙,Anion Gap,286884,64596
+Chemistry,Blood,50869,DGP抗体（IgA/IgG）,Anti-DGP (IgA/IgG),1434,32
+Chemistry,Blood,50870,抗醇溶性谷蛋白抗体，IgA,"Anti-Gliadin Antibody, IgA",117,0
+Chemistry,Blood,50871,抗线粒体抗体,Anti-Mitochondrial Antibody,6800,1224
+Chemistry,Blood,50872,抗中性粒细胞胞浆抗体,Anti-Neutrophil Cytoplasmic Antibody,7005,1535
+Chemistry,Blood,50873,抗核抗体,Anti-Nuclear Antibody,25063,3401
+Chemistry,Blood,50874,抗核抗体滴度,"Anti-Nuclear Antibody, Titer",7326,843
+Chemistry,Blood,50875,抗族细胞抗体,Anti-Parietal Cell Antibody,161,7
+Chemistry,Blood,50876,抗平滑肌抗体,Anti-Smooth Muscle Antibody,7358,1239
+Chemistry,Blood,50877,抗甲状腺球蛋白抗体,Anti-Thyroglobulin Antibodies,3516,176
+Chemistry,Blood,50878,门冬氨酸氨基转移酶（AST）,Asparate Aminotransferase (AST),199794,45147
+Chemistry,Blood,50879,巴比妥类药物筛查,Barbiturate Screen,47203,3030
+Chemistry,Blood,50880,苯二氮卓类药物筛查,Benzodiazepine Screen,47235,3038
+Chemistry,Blood,50881,β2微球蛋白,Beta-2 Microglobulin,3255,392
+Chemistry,Blood,50882,碳酸氢酸盐,Bicarbonate,286974,64598
+Chemistry,Blood,50883,直接胆红素,"Bilirubin, Direct",34075,7674
+Chemistry,Blood,50884,间接胆红素,"Bilirubin, Indirect",32038,6946
+Chemistry,Blood,50885,总胆红素,"Bilirubin, Total",185708,44868
+Chemistry,Blood,50886,血液培养样本保持,Blood Culture Hold,0,0
+Chemistry,Blood,50887,蓝色试管保持,Blue Top Hold,169258,12081
+Chemistry,Blood,50888,冷冻情况下的蓝色试管保持,Blue Top Hold Frozen,294,1
+Chemistry,Blood,50889,C反应蛋白,C-Reactive Protein,57187,6957
+Chemistry,Blood,50890,C3补体成分,C3,7341,1287
+Chemistry,Blood,50891,C4补体成分,C4,7916,1385
+Chemistry,Blood,50892,CA-125肿瘤标记物,CA-125,3464,252
+Chemistry,Blood,50893,总钙,"Calcium, Total",211209,63372
+Chemistry,Blood,50894,计算游离睾酮,Calculated Free Testosterone,4527,49
+Chemistry,Blood,50895,计算甲状腺结合球蛋白,Calculated TBG,4160,283
+Chemistry,Blood,50896,计算甲状腺素（T4）指数,Calculated Thyroxine (T4) Index,4139,280
+Chemistry,Blood,50897,呼叫,Call,0,0
+Chemistry,Blood,50898,癌抗原27.29,Cancer Antigen 27.29,1396,55
+Chemistry,Blood,50899,卡马西平,Carbamazepine,1006,131
+Chemistry,Blood,50900,癌胚抗原（CEA）,Carcinoembyronic Antigen (CEA),11752,1203
+Chemistry,Blood,50901,着丝点,Centromere,710,101
+Chemistry,Blood,50902,氯浓度,Chloride,287837,64608
+Chemistry,Blood,50903,胆固醇比值（总胆固醇/HDL）,Cholesterol Ratio (Total/HDL),100658,8896
+Chemistry,Blood,50904,高密度脂蛋白胆固醇,"Cholesterol, HDL",101160,9197
+Chemistry,Blood,50905,计算低密度脂蛋白胆固醇,"Cholesterol, LDL, Calculated",96539,8588
+Chemistry,Blood,50906,测定低密度脂蛋白胆固醇,"Cholesterol, LDL, Measured",23941,915
+Chemistry,Blood,50907,总胆固醇,"Cholesterol, Total",102625,9439
+Chemistry,Blood,50908,肌酸激酶MB指数,CK-MB Index,11581,6422
+Chemistry,Blood,50909,皮质醇,Cortisol,15607,5629
+Chemistry,Blood,50910,肌酸激酶（CK）,Creatine Kinase (CK),90710,27161
+Chemistry,Blood,50911,肌酸激酶，MB亚型,"Creatine Kinase, MB Isoenzyme",70194,27861
+Chemistry,Blood,50912,肌酐,Creatinine,295065,64625
+Chemistry,Blood,50913,冷球蛋白,Cryoglobulin,1762,310
+Chemistry,Blood,50914,环孢素,Cyclosporin,763,244
+Chemistry,Blood,50915,D-二聚体,D-Dimer,18461,1350
+Chemistry,Blood,50916,DHEA-硫酸盐,DHEA-Sulfate,1921,34
+Chemistry,Blood,50917,地高辛,Digoxin,4398,1968
+Chemistry,Blood,50918,双链DNA,Double Stranded DNA,4268,560
+Chemistry,Blood,50919,EDTA保持样本,EDTA Hold,57531,7968
+Chemistry,Blood,50920,预测的肾小球滤过率（MDRD方程）,Estimated GFR (MDRD equation),285151,44921
+Chemistry,Blood,50921,雌二醇,Estradiol,3001,14
+Chemistry,Blood,50922,酒精,Ethanol,66484,4696
+Chemistry,Blood,50923,传真,Fax,0,0
+Chemistry,Blood,50924,铁蛋白,Ferritin,71336,13022
+Chemistry,Blood,50925,叶酸,Folate,41044,4988
+Chemistry,Blood,50926,促卵泡生成激素,Follicle Stimulating Hormone,7781,133
+Chemistry,Blood,50927,γ-谷氨酰转移酶,Gamma Glutamyltransferase,11402,1879
+Chemistry,Blood,50928,胃泌素,Gastrin,0,0
+Chemistry,Blood,50929,庆大霉素,Gentamicin,1138,510
+Chemistry,Blood,50930,球蛋白,Globulin,43985,2524
+Chemistry,Blood,50931,葡萄糖,Glucose,289265,64595
+Chemistry,Blood,50932,铅灰色试管保存（血浆）,Gray Top Hold (plasma),6819,100
+Chemistry,Blood,50933,绿色试管保存（血浆）,Green Top Hold (plasma),193831,10478
+Chemistry,Blood,50934,氢离子,H,159245,32114
+Chemistry,Blood,50935,哈蛋白,Haptoglobin,26818,9942
+Chemistry,Blood,50936,母体人绒毛膜促性腺激素检测,"HCG, Maternal Screen",0,0
+Chemistry,Blood,50937,乙型肝炎病毒抗体,Hepatitis A Virus Antibody,19685,2659
+Chemistry,Blood,50938,乙型肝炎病毒IgM抗体,Hepatitis A Virus IgM Antibody,6399,1541
+Chemistry,Blood,50939,乙型肝炎核心IgM抗体,"Hepatitis B Core Antibody, IgM",4054,1009
+Chemistry,Blood,50940,乙型肝炎表面抗体,Hepatitis B Surface Antibody,48138,7615
+Chemistry,Blood,50941,乙型肝炎表面抗原,Hepatitis B Surface Antigen,52570,8143
+Chemistry,Blood,50942,乙型肝炎病毒核心抗体,Hepatitis B Virus Core Antibody,38255,7135
+Chemistry,Blood,50943,丙型肝炎病毒抗体,Hepatitis C Virus Antibody,54395,7924
+Chemistry,Blood,50945,同型半胱氨酸,Homocysteine,2270,132
+Chemistry,Blood,50946,人绒毛膜促性腺激素,Human Chorionic Gonadotropin,22415,691
+Chemistry,Blood,50947,碘离子,I,159248,32112
+Chemistry,Blood,50948,免疫固定化,Immunofixation,6322,1034
+Chemistry,Blood,50949,免疫球蛋白A,Immunoglobulin A,21918,2666
+Hematology,Stool,52404,脂肪,Fat,0,0
+Chemistry,Blood,50950,免疫球蛋白G,Immunoglobulin G,18261,2882
+Chemistry,Blood,50951,免疫球蛋白M,Immunoglobulin M,16273,2480
+Chemistry,Blood,50952,铁,Iron,66245,12583
+Chemistry,Blood,50953,总铁结合容量,"Iron Binding Capacity, Total",62197,12084
+Chemistry,Blood,50954,乳酸脱氢酶（LD）,Lactate Dehydrogenase (LD),90745,34995
+Chemistry,Blood,50955,浅绿色试管保持,Light Green Top Hold,161822,5770
+Chemistry,Blood,50956,脂酶,Lipase,118195,16018
+Chemistry,Blood,50957,锂,Lithium,2480,280
+Chemistry,Blood,50958,促黄体生成素,Luteinizing Hormone,4956,127
+Chemistry,Blood,50959,大分子泌乳素,Macro Prolactin,27,0
+Chemistry,Blood,50960,镁离子,Magnesium,203303,64398
+Chemistry,Blood,50961,甲氨蝶呤,Methotrexate,393,90
+Chemistry,Blood,50962,N-乙酰普鲁卡因胺（NAPA）,N-Acetylprocainamide (NAPA),10,1
+Chemistry,Blood,50963,NT前体B型钠尿肽,NTproBNP,41238,8601
+Chemistry,Blood,50964,测定渗透压,"Osmolality, Measured",17326,7556
+Chemistry,Blood,50965,副甲状腺激素,Parathyroid Hormone,20401,1867
+Chemistry,Blood,50966,苯巴比妥,Phenobarbital,778,372
+Chemistry,Blood,50967,苯妥英,Phenytoin,4142,2300
+Chemistry,Blood,50968,游离苯妥英,"Phenytoin, Free",343,243
+Chemistry,Blood,50969,苯妥英，百分比游离,"Phenytoin, Percent Free",335,239
+Chemistry,Blood,50970,磷酸盐,Phosphate,200967,63501
+Chemistry,Blood,50971,钾,Potassium,288179,64611
+Chemistry,Blood,50972,普鲁卡因胺,Procainamide,10,1
+Chemistry,Blood,50973,泌乳素,Prolactin,7515,400
+Chemistry,Blood,50974,前列腺特异性抗原,Prostate Specific Antigen,21640,682
+Chemistry,Blood,50975,蛋白质电泳,Protein Electrophoresis,24116,2572
+Chemistry,Blood,50976,总蛋白,"Protein, Total",56981,5404
+Chemistry,Blood,50977,奎尼丁类药物,Quinidine,0,0
+Chemistry,Blood,50978,雷帕霉素,Rapamycin,523,125
+Chemistry,Blood,50979,红色试管保持,Red Top Hold,89374,11596
+Chemistry,Blood,50980,类风湿因子,Rheumatoid Factor,11610,1057
+Chemistry,Blood,50981,水杨酸,Salicylate,67119,4824
+Chemistry,Blood,50982,性激素结合球蛋白,Sex Hormone Binding Globulin,4775,61
+Chemistry,Blood,50983,钠,Sodium,288058,64614
+Chemistry,Blood,50984,急诊样本,Stat,0,0
+Chemistry,Blood,50985,研究用试管,Study Tubes,0,0
+Chemistry,Blood,50986,他克莫司,tacroFK,2517,1181
+Chemistry,Blood,50988,睾酮,Testosterone,9166,109
+Chemistry,Blood,50989,游离睾酮,"Testosterone, Free",1603,11
+Chemistry,Blood,50990,茶碱,Theophylline,71,15
+Chemistry,Blood,50991,甲状腺球蛋白,Thyroglobulin,1638,108
+Chemistry,Blood,50992,甲状腺过氧化物酶抗体,Thyroid Peroxidase Antibodies,5147,275
+Chemistry,Blood,50993,甲状腺刺激激素,Thyroid Stimulating Hormone,122606,16722
+Chemistry,Blood,50994,甲状腺素（T4）,Thyroxine (T4),13247,2422
+Chemistry,Blood,50995,游离甲状腺素（T4）,"Thyroxine (T4), Free",46378,3930
+Chemistry,Blood,50996,组织转麸酶抗体，IgA,"Tissue Transglutaminase Ab, IgA",15190,447
+Chemistry,Blood,50997,土霉素,Tobramycin,752,659
+Chemistry,Blood,50998,转铁蛋白,Transferrin,62266,12134
+Chemistry,Blood,50999,三环抗抑郁药物筛查,Tricyclic Antidepressant Screen,65024,4566
+Chemistry,Blood,51000,甘油三酯,Triglycerides,104972,14537
+Chemistry,Blood,51001,曲洛三碘甲状腺原氨酸（T3）,Triiodothyronine (T3),10771,1630
+Chemistry,Blood,51002,肌钙蛋白I,Troponin I,0,0
+Chemistry,Blood,51003,肌钙蛋白T,Troponin T,115634,31340
+Chemistry,Blood,51004,母体筛查中的雌三醇,"UE3, Maternal Screen",0,0
+Chemistry,Blood,51005,吸收比率,Uptake Ratio,4156,284
+Chemistry,Blood,51006,尿素氮,Urea Nitrogen,293471,64620
+Chemistry,Blood,51007,尿酸,Uric Acid,29983,3615
+Chemistry,Blood,51008,丙戊酸,Valproic Acid,3769,980
+Chemistry,Blood,51009,万古霉素,Vancomycin,29316,16372
+Chemistry,Blood,51010,维生素B12,Vitamin B12,65886,7948
+Chemistry,Joint Fluid,51019,关节液中的白蛋白,"Albumin, Joint Fluid",9,2
+Chemistry,Joint Fluid,51020,关节液中的淀粉酶,"Amylase, Joint Fluid",5,3
+Chemistry,Joint Fluid,51021,关节液中的肌酐,"Creatinine, Joint Fluid",3,0
+Chemistry,Joint Fluid,51022,关节液中的葡萄糖,"Glucose, Joint Fluid",162,9
+Chemistry,Joint Fluid,51023,关节液中的乳酸脱氢酶,"LD, Joint Fluid",40,4
+Chemistry,Joint Fluid,51024,关节液中的总蛋白,"Total Protein, Joint Fluid",125,7
+Chemistry,Other Body Fluid,51025,体液中的白蛋白,"Albumin, Body Fluid",787,513
+Chemistry,Other Body Fluid,51026,体液中的淀粉酶,"Amylase, Body Fluid",1099,462
+Chemistry,Other Body Fluid,51027,其他体液中的碳酸氢盐,"Bicarbonate, Other Fluid",73,19
+Chemistry,Other Body Fluid,51028,体液中的总胆红素,"Bilirubin, Total, Body Fluid",349,158
+Chemistry,Other Body Fluid,51029,体液中的钙,"Calcium, Body Fluid",9,5
+Chemistry,Other Body Fluid,51030,体液中的氯,"Chloride, Body Fluid",27,21
+Chemistry,Other Body Fluid,51031,体液中的胆固醇,"Cholesterol, Body Fluid",20,4
+Chemistry,Other Body Fluid,51032,体液中的肌酐,"Creatinine, Body Fluid",387,117
+Chemistry,Other Body Fluid,51033,胎儿纤维蛋白原,FetalFN,1096,3
+Chemistry,Other Body Fluid,51034,体液中的葡萄糖,"Glucose, Body Fluid",876,533
+Chemistry,Other Body Fluid,51035,体液中的乳酸脱氢酶,"LD, Body Fluid",781,504
+Chemistry,Other Body Fluid,51036,体液中的脂酰酶,"Lipase, Body Fluid",54,29
+Chemistry,Other Body Fluid,51037,体液中的镁,"Magnesium, Body Fluid",7,3
+Chemistry,Other Body Fluid,51038,体液中的其他杂项,"Miscellaneous, Body Fluid",655,81
+Chemistry,Other Body Fluid,51039,体液中的渗透压,"Osmolality, Body Fluid",11,7
+Chemistry,Other Body Fluid,51040,体液中的磷酸盐,"Phosphate, Body Fluid",9,5
+Chemistry,Other Body Fluid,51041,体液中的钾,"Potassium, Body Fluid",35,25
+Chemistry,Other Body Fluid,51042,体液中的钠,"Sodium, Body Fluid",38,26
+Chemistry,Other Body Fluid,51043,体液中的总蛋白,"Total Protein, Body Fluid",867,533
+Chemistry,Other Body Fluid,51044,甘油三酯,Triglycer,133,57
+Chemistry,Other Body Fluid,51045,体液中的尿素氮,"Urea Nitrogen, Body Fluid",45,24
+Chemistry,Pleural,51046,胸腔中的白蛋白,"Albumin, Pleural",4017,1662
+Chemistry,Pleural,51047,胸腔中的淀粉酶,"Amylase, Pleural",1957,891
+Chemistry,Pleural,51048,胸腔中的碳酸氢盐,"Bicarbonate, Pleural",3,2
+Chemistry,Pleural,51049,胸腔中的总胆红素,"Bilirubin, Total, Pleural",166,82
+Chemistry,Pleural,51050,胸腔中的氯,"Chloride, Pleural",2,1
+Chemistry,Pleural,51051,胸腔中的胆固醇,"Cholesterol, Pleural",3872,1586
+Chemistry,Pleural,51052,胸腔中的肌酐,"Creatinine, Pleural",1477,626
+Chemistry,Pleural,51053,胸腔中的葡萄糖,"Glucose, Pleural",5265,2264
+Chemistry,Pleural,51054,胸腔中的乳酸脱氢酶,"Lactate Dehydrogenase, Pleural",5511,2369
+Chemistry,Pleural,51055,胸腔中的脂酰酶,"Lipase, Pleural",18,7
+Chemistry,Pleural,51056,胸腔中的其他杂项,"Miscellaneous, Pleural",1139,465
+Chemistry,Pleural,51057,胸腔中的钾,"Potassium, Pleural",5,3
+Chemistry,Pleural,51058,胸腔中的钠,"Sodium, Pleural",6,4
+Chemistry,Pleural,51059,胸腔中的总蛋白,"Total Protein, Pleural",5529,2376
+Chemistry,Pleural,51060,胸腔中的甘油三酯,"Triglycerides, Pleural",1553,626
+Chemistry,Stool,51061,大便中的碳酸氢盐,"Bicarbonate, Stool",36,17
+Chemistry,Stool,51062,大便中的氯,"Chloride, Stool",83,25
+Chemistry,Stool,51063,大便中的渗透压,"Osmolality, Stool",203,61
+Chemistry,Stool,51064,大便中的钾,"Potassium, Stool",202,49
+Chemistry,Stool,51065,大便中的钠,"Sodium, Stool",204,51
+Chemistry,Urine,51066,24小时尿钙,24 hr Calcium,1787,41
+Chemistry,Urine,51067,24小时尿肌酐,24 hr Creatinine,6250,573
+Chemistry,Urine,51068,24小时尿蛋白,24 hr Protein,2860,263
+Chemistry,Urine,51069,尿液白蛋白,"Albumin, Urine",24056,718
+Chemistry,Urine,51070,尿白蛋白/肌酐比值,"Albumin/Creatinine, Urine",23647,714
+Chemistry,Urine,51071,尿液中的安非他明筛查,"Amphetamine Screen, Urine",57090,4703
+Chemistry,Urine,51072,尿液中的淀粉酶,"Amylase, Urine",83,17
+Chemistry,Urine,51073,尿液中的淀粉酶/肌酐比值,"Amylase/Creatinine Ratio, Urine",82,17
+Chemistry,Urine,51074,尿液中的巴比妥筛查,"Barbiturate Screen, Urine",56972,4676
+Chemistry,Urine,51075,尿液中的苯二氮卓筛查,"Benzodiazepine Screen, Urine",57058,4689
+Chemistry,Urine,51076,尿液中的碳酸氢盐,"Bicarbonate, Urine",4245,1828
+Chemistry,Urine,51077,尿液中的钙,"Calcium, Urine",4635,1113
+Chemistry,Urine,51078,尿液中的氯,"Chloride, Urine",23131,10067
+Chemistry,Urine,51079,尿液中的可卡因,"Cocaine, Urine",57223,4736
+Chemistry,Urine,51080,肌酐清除率,Creatinine Clearance,453,67
+Chemistry,Urine,51081,血清肌酐,"Creatinine, Serum",453,67
+Chemistry,Urine,51082,尿液肌酐,"Creatinine, Urine",61774,16275
+Chemistry,Urine,51083,尿液中的乙醇,"Ethanol, Urine",77,2
+Chemistry,Urine,51084,尿液中的葡萄糖,"Glucose, Urine",168,44
+Chemistry,Urine,51085,尿HCG,"HCG, Urine, Qualitative",58253,1007
+Chemistry,Urine,51086,尿液免疫固定,"Immunofixation, Urine",4210,880
+Chemistry,Urine,51087,尿液收集的长度,Length of Urine Collection,201887,25863
+Chemistry,Urine,51088,尿液中的镁,"Magnesium, Urine",1974,835
+Chemistry,Urine,51089,大麻,Marijuana,4764,25
+Chemistry,Urine,51090,尿液中的美沙酮,"Methadone, Urine",56922,4656
+Chemistry,Urine,51091,尿液中的肌红蛋白,"Myoglobin, Urine",466,207
+Chemistry,Urine,51092,尿液中的鸦片类药物筛查,"Opiate Screen, Urine",57145,4682
+Chemistry,Urine,51093,尿液渗透压,"Osmolality, Urine",29952,13538
+Chemistry,Urine,51094,pH值,pH,7438,783
+Chemistry,Urine,51095,尿液中的磷酸盐,"Phosphate, Urine",3326,1349
+Chemistry,Urine,51096,卟啉胆素筛查,Porphobilinogen Screen,463,53
+Chemistry,Urine,51097,尿钾,"Potassium, Urine",24072,10486
+Chemistry,Urine,51098,尿液中的蛋白质电泳,"Prot. Electrophoresis, Urine",11988,1825
+Chemistry,Urine,51099,尿中的蛋白质/肌酐比值,Protein/Creatinine Ratio,22790,3255
+Chemistry,Urine,51100,尿钠,"Sodium, Urine",37533,16648
+Chemistry,Urine,51101,总收集时间,Total Collection Time,453,67
+Chemistry,Urine,51102,尿液中的总蛋白,"Total Protein, Urine",28114,3946
+Chemistry,Urine,51103,保留尿,Uhold,103231,7746
+Chemistry,Urine,51104,尿液中的尿素氮,"Urea Nitrogen, Urine",24381,11230
+Chemistry,Urine,51105,尿液中的尿酸,"Uric Acid, Urine",2261,863
+Chemistry,Urine,51106,尿肌酐,Urine Creatinine,453,67
+Chemistry,Urine,51107,保存尿液的管子,"Urine tube, held",90278,6710
+Chemistry,Urine,51108,尿液的体积,Urine Volume,7511,801
+Chemistry,Urine,51109,尿液的总体积,"Urine Volume, Total",453,67
+Hematology,Ascites,51110,异型淋巴细胞,Atypical Lymphocytes,449,161
+Hematology,Ascites,51111,带状细胞,Bands,299,127
+Hematology,Ascites,51112,嗜碱细胞,Basophils,525,181
+Hematology,Ascites,51113,原始细胞,Blasts,6,2
+Hematology,Ascites,51114,嗜酸性粒细胞,Eosinophils,1418,509
+Hematology,Ascites,51115,积水中的红细胞比积,"Hematocrit, Ascites",274,153
+Hematology,Ascites,51116,淋巴细胞,Lymphocytes,4778,2032
+Hematology,Ascites,51117,巨噬细胞,Macrophage,4202,1734
+Hematology,Ascites,51118,间皮细胞,Mesothelial Cell,3662,1454
+Hematology,Ascites,51119,髓粒细胞,Metamyelocytes,38,19
+Hematology,Ascites,51120,单核细胞,Monocytes,4778,2032
+Hematology,Ascites,51121,髓母细胞,Myelocytes,32,13
+Hematology,Ascites,51122,有核红细胞,Nucleated RBC,192,82
+Hematology,Ascites,51123,其他,Other,2423,818
+Hematology,Ascites,51124,血浆,Plasma,777,293
+Hematology,Ascites,51125,多形核细胞,Polys,4778,2032
+Hematology,Ascites,51126,早幼粒细胞,Promyelocytes,33,11
+Hematology,Ascites,51127,积水的红细胞,"RBC, Ascites",4713,1988
+Hematology,Ascites,51129,幼年,Young,3,0
+Hematology,Blood,51130,CD3细胞绝对计数,Absolute CD3 Count,5058,530
+Hematology,Blood,51131,CD4细胞绝对计数,Absolute CD4 Count,5058,530
+Hematology,Blood,51132,CD8细胞绝对计数,Absolute CD8 Count,5058,530
+Hematology,Blood,51133,绝对淋巴细胞计数,Absolute Lymphocyte Count,163092,24451
+Hematology,Blood,51134,刺网红细胞,Acanthocytes,8414,2837
+Hematology,Blood,51135,ADP（二磷酸腺苷）,ADP,582,26
+Hematology,Blood,51136,α-Antiplasmin,Alpha Antiplasmin,0,0
+Hematology,Blood,51137,异形红细胞,Anisocytosis,53868,14762
+Hematology,Blood,51138,抗心磷脂抗体IgG,Anticardiolipin Antibody IgG,2218,310
+Hematology,Blood,51139,抗心磷脂抗体IgM,Anticardiolipin Antibody IgM,2218,310
+Hematology,Blood,51140,抗凝血酶,Antithrombin,1618,320
+Hematology,Blood,51141,活化部分凝血活酶时间,APT Test,0,0
+Hematology,Blood,51142,花生四烯酸,Arachadonic Acid,588,29
+Hematology,Blood,51143,异型淋巴细胞,Atypical Lymphocytes,37910,10948
+Hematology,Blood,51144,带状细胞,Bands,43939,12667
+Hematology,Blood,51145,嗜碱性颗粒有斑点,Basophilic Stippling,6588,2549
+Hematology,Blood,51146,嗜碱细胞,Basophils,276377,41434
+Hematology,Blood,51147,叮咬细胞（有疤纹的红细胞）,Bite Cells,3931,1195
+Hematology,Blood,51148,原始细胞,Blasts,1938,511
+Hematology,Blood,51149,出血时间,Bleeding Time,67,6
+Hematology,Blood,51150,血液寄生虫涂片,Blood Parasite Smear,3581,650
+Hematology,Blood,51152,CD10,CD10,1068,140
+Hematology,Blood,51153,CD103,CD103,50,4
+Hematology,Blood,51154,CD117,CD117,211,41
+Hematology,Blood,51155,CD11c细胞表面标志,CD11c,234,40
+Hematology,Blood,51156,CD13,CD13,235,49
+Hematology,Blood,51157,CD138,CD138,11,1
+Hematology,Blood,51158,CD14,CD14,207,42
+Hematology,Blood,51159,CD15,CD15,210,41
+Hematology,Blood,51161,CD16,CD16,103,10
+Hematology,Blood,51162,CD16/56细胞绝对计数,CD16/56 Absolute Count,391,35
+Hematology,Blood,51163,CD16/56%,CD16/56%,391,35
+Hematology,Blood,51164,CD19,CD19,1101,151
+Hematology,Blood,51165,CD19%,CD19 %,470,23
+Hematology,Blood,51166,CD19细胞绝对计数,CD19 Absolute Count,470,23
+Hematology,Blood,51167,CD2,CD2,841,109
+Hematology,Blood,51168,CD20,CD20,1076,142
+Hematology,Blood,51169,CD20%,CD20 %,470,23
+Hematology,Blood,51170,CD20细胞绝对计数,CD20 Absolute Count,470,23
+Hematology,Blood,51171,CD22,CD22,56,6
+Hematology,Blood,51172,CD23,CD23,879,97
+Hematology,Blood,51173,CD25,CD25,66,8
+Hematology,Blood,51174,CD3%,CD3 %,545,70
+Hematology,Blood,51175,CD3细胞绝对计数,CD3 Absolute Count,545,70
+Hematology,Blood,51176,CD3细胞百分比,"CD3 Cells, Percent",5855,654
+Hematology,Blood,51177,CD33,CD33,204,43
+Hematology,Blood,51178,CD34,CD34,247,51
+Hematology,Blood,51179,CD38,CD38,87,8
+Hematology,Blood,51180,CD4细胞百分比,"CD4 Cells, Percent",5526,610
+Hematology,Blood,51181,CD4/CD8比例,CD4/CD8 Ratio,5058,530
+Hematology,Blood,51182,CD41,CD41,179,35
+Hematology,Blood,51183,CD45,CD45,1120,157
+Hematology,Blood,51184,CD5,CD5,1069,138
+Hematology,Blood,51185,CD5%,CD5 %,188,49
+Hematology,Blood,51186,CD5细胞绝对计数,CD5 Absolute Count,188,49
+Hematology,Blood,51187,CD55,CD55,175,31
+Hematology,Blood,51188,CD56,CD56,304,48
+Hematology,Blood,51189,CD57,CD57,149,14
+Hematology,Blood,51190,CD59,CD59,175,31
+Hematology,Blood,51191,CD64,CD64,192,36
+Hematology,Blood,51192,CD7,CD7,846,114
+Hematology,Blood,51193,CD71,CD71,184,36
+Hematology,Blood,51194,CD8细胞百分比,"CD8 Cells, Percent",5523,608
+Hematology,Blood,51195,胶原,Collagen,576,26
+Hematology,Blood,51196,D-二聚体,D-Dimer,13875,1793
+Hematology,Blood,51197,椭圆形红细胞,Elliptocytes,8266,2229
+Hematology,Blood,51198,包围的细胞,Envelope Cells,1474,389
+Hematology,Blood,51199,嗜酸性粒细胞计数,Eosinophil Count,374,44
+Hematology,Blood,51200,嗜酸性粒细胞,Eosinophils,276377,41434
+Hematology,Blood,51201,肾上腺素,Epinepherine,155,13
+Hematology,Blood,51202,凝血酶原时间,Factor II,219,94
+Hematology,Blood,51203,凝血因子IX,Factor IX,247,71
+Hematology,Blood,51204,凝血因子V,Factor V,325,126
+Hematology,Blood,51205,凝血因子VII,Factor VII,459,200
+Hematology,Blood,51206,凝血因子VIII,Factor VIII,1722,442
+Hematology,Blood,51207,凝血因子VIII抑制物,Factor VIII Inhibitor,64,25
+Hematology,Blood,51208,因子X,Factor X,261,113
+Hematology,Blood,51209,因子XI,Factor XI,216,37
+Hematology,Blood,51210,因子XII,Factor XII,80,13
+Hematology,Blood,51211,因子XIII,Factor XIII,81,21
+Hematology,Blood,51212,胎儿血红蛋白,Fetal Hemoglobin,422,14
+Hematology,Blood,51213,纤维蛋白降解产物,Fibrin Degradation Products,2133,1363
+Hematology,Blood,51214,功能性纤维蛋白原,"Fibrinogen, Functional",45655,23911
+Hematology,Blood,51215,FMC-7,FMC-7,888,101
+Hematology,Blood,51216,破碎的细胞,Fragmented Cells,2907,850
+Hematology,Blood,51217,糖蛋白A,Glyco A,182,35
+Hematology,Blood,51218,粒细胞计数,Granulocyte Count,6722,530
+Hematology,Blood,51219,血液/涂片,H/O Smear,10482,2379
+Hematology,Blood,51220,Heinz体准备,Heinz Body Prep,217,47
+Hematology,Blood,51221,红细胞比容,Hematocrit,298904,64598
+Hematology,Blood,51222,血红蛋白,Hemoglobin,298632,64574
+Hematology,Blood,51223,血红蛋白A2,Hemoglobin A2,3966,93
+Hematology,Blood,51224,血红蛋白C,Hemoglobin C,6157,117
+Hematology,Blood,51225,血红蛋白F,Hemoglobin F,3979,93
+Hematology,Blood,51226,血红蛋白A,Hemogloblin A,6157,117
+Hematology,Blood,51227,血红蛋白S,Hemogloblin S,6157,117
+Hematology,Blood,51228,肝素,Heparin,1890,1386
+Hematology,Blood,51229,低分子量肝素,"Heparin, LMW",1676,674
+Hematology,Blood,51230,HLA-DR,HLA-DR,1065,139
+Hematology,Blood,51231,Howell-Jolly小体，Howell-Jolly体,Howell-Jolly Bodies,1192,416
+Hematology,Blood,51232,高度分裂的中性粒细胞,Hypersegmented Neutrophils,494,126
+Hematology,Blood,51233,低色素症,Hypochromia,51223,13716
+Hematology,Blood,51234,免疫表型鉴定,Immunophenotyping,2674,385
+Hematology,Blood,51235,抗血病筛查,Inhibitor Screen,896,311
+Hematology,Blood,51236,住院患者的血液/肿瘤涂片,Inpatient Hematology/Oncology Smear,3409,1364
+Hematology,Blood,51237,凝血酶原时间国际标准化比值(PT-INR),INR(PT),195916,60893
+Hematology,Blood,51238,Kappa免疫球蛋白轻链,Kappa,1073,145
+Hematology,Blood,51239,Lambda免疫球蛋白轻链,Lambda,1073,145
+Hematology,Blood,51240,大血小板,Large Platelets,1620,360
+Hematology,Blood,51241,白细胞碱性磷酸酶,Leukocyte Alkaline Phosphatase,45,6
+Hematology,Blood,51242,LUC,LUC,312,36
+Hematology,Blood,51243,抗狼疮抗凝物,Lupus Anticoagulant,4858,956
+Hematology,Blood,51244,淋巴细胞,Lymphocytes,276377,41434
+Hematology,Blood,51245,淋巴细胞百分比,"Lymphocytes, Percent",5058,530
+Hematology,Blood,51246,巨红细胞,Macrocytes,51147,13783
+Hematology,Blood,51247,巨椭红细胞,MacroOvalocytes,525,167
+Hematology,Blood,51248,MCH,MCH,298570,64573
+Hematology,Blood,51249,MCHC,MCHC,298570,64573
+Hematology,Blood,51250,平均红细胞体积,MCV,298570,64573
+Hematology,Blood,51251,髓粒细胞,Metamyelocytes,38834,11792
+Hematology,Blood,51252,微细红细胞,Microcytes,50295,13202
+Hematology,Blood,51253,单核细胞计数,Monocyte Count,17,0
+Hematology,Blood,51254,单核细胞,Monocytes,276377,41434
+Hematology,Blood,51255,髓母细胞,Myelocytes,38396,11625
+Hematology,Blood,51256,中性粒细胞,Neutrophils,276377,41434
+Hematology,Blood,51257,核红细胞,Nucleated Red Cells,21420,8069
+Hematology,Blood,51258,渗透脆性,Osmotic Fragility,6,0
+Hematology,Blood,51259,其他细胞,Other Cells,3834,873
+Hematology,Blood,51260,椭圆红细胞,Ovalocytes,31068,9620
+Hematology,Blood,51261,帕本海默体,Pappenheimer Bodies,1692,612
+Hematology,Blood,51262,铅笔细胞,Pencil Cells,1598,350
+Hematology,Blood,51263,浆细胞,Plasma Cells,1829,426
+Hematology,Blood,51264,血小板凝块,Platelet Clumps,273,55
+Hematology,Blood,51265,血小板计数,Platelet Count,298654,64580
+Hematology,Blood,51266,血小板涂片,Platelet Smear,57634,18567
+Hematology,Blood,51267,形态异常细胞增多症,Poikilocytosis,54738,15009
+Hematology,Blood,51268,多色性,Polychromasia,51563,14025
+Hematology,Blood,51269,早幼粒细胞,Promyelocytes,4051,1272
+Hematology,Blood,51270,蛋白C，抗原,"Protein C, Antigen",135,22
+Hematology,Blood,51271,蛋白C，功能,"Protein C, Functional",1830,317
+Hematology,Blood,51272,蛋白S，抗原,"Protein S, Antigen",169,24
+Hematology,Blood,51273,蛋白S，功能,"Protein S, Functional",1679,308
+Hematology,Blood,51274,PT,PT,195910,60893
+Hematology,Blood,51275,PTT,PTT,191488,60684
+Hematology,Blood,51276,定量G6PD,Quantitative G6PD,2424,254
+Hematology,Blood,51277,RDW,RDW,298562,64573
+Hematology,Blood,51278,红细胞碎片,Red Blood Cell Fragments,3,0
+Hematology,Blood,51279,红细胞,Red Blood Cells,298570,64573
+Hematology,Blood,51280,蝮蛇酶时间,Reptilase Time,5,3
+Hematology,Blood,51281,蛇毒酶时间控制,Reptilase Time Control,4,3
+Hematology,Blood,51282,网织红细胞计数，绝对,"Reticulocyte Count, Absolute",18880,5820
+Hematology,Blood,51283,网织红细胞计数，自动,"Reticulocyte Count, Automated",31535,8846
+Hematology,Blood,51284,网织红细胞计数，手动,"Reticulocyte Count, Manual",1984,492
+Hematology,Blood,51285,网织红细胞，细胞血红蛋白,"Reticulocyte, Cellular Hemoglobin",0,0
+Hematology,Blood,51286,瑞斯托定,Ristocetin,145,15
+Hematology,Blood,51287,裂红细胞,Schistocytes,17540,5907
+Hematology,Blood,51288,沉降率,Sedimentation Rate,27353,1707
+Hematology,Blood,51289,血清粘度,Serum Viscosity,432,95
+Hematology,Blood,51290,镰状细胞制备,Sickle Cell Preparation,786,22
+Hematology,Blood,51291,镰状细胞,Sickle Cells,222,56
+Hematology,Blood,51292,球形细胞,Spherocytes,6312,2240
+Hematology,Blood,51293,糖水试验,Sugar Water Test,0,0
+Hematology,Blood,51294,靶细胞,Target Cells,9855,3398
+Hematology,Blood,51295,终末脱氧核糖核酸转移酶,TdT,42,8
+Hematology,Blood,51296,泪滴状细胞,Teardrop Cells,20058,6137
+Hematology,Blood,51297,凝血酶,Thrombin,1947,602
+Hematology,Blood,51298,冯,Von Willebrand Factor Activity,932,121
+Hematology,Blood,51299,冯,Von Willebrand Factor Antigen,937,128
+Hematology,Blood,51300,WBC计数,WBC Count,5058,530
+Hematology,Blood,51301,白细胞,White Blood Cells,298581,64578
+Hematology,Blood,51302,幼细胞,Young Cells,124,12
+Hematology,Bone Marrow,51303,CD10,CD10,0,0
+Hematology,Bone Marrow,51304,CD103,CD103,31,1
+Hematology,Bone Marrow,51305,CD117,CD117,342,75
+Hematology,Bone Marrow,51306,CD11c细胞表面标志,CD11c,297,53
+Hematology,Bone Marrow,51307,CD13,CD13,388,88
+Hematology,Bone Marrow,51308,CD138,CD138,15,2
+Hematology,Bone Marrow,51309,CD14,CD14,312,62
+Hematology,Bone Marrow,51310,CD15,CD15,334,74
+Hematology,Bone Marrow,51311,CD16,CD16,29,2
+Hematology,Bone Marrow,51312,CD16/56,CD16/56,123,15
+Hematology,Bone Marrow,51313,CD19,CD19,1150,146
+Hematology,Bone Marrow,51314,CD2,CD2,711,95
+Hematology,Bone Marrow,51315,CD20,CD20,1104,128
+Hematology,Bone Marrow,51316,CD22,CD22,37,3
+Hematology,Bone Marrow,51317,CD23,CD23,859,79
+Hematology,Bone Marrow,51318,CD25,CD25,49,3
+Hematology,Bone Marrow,51319,CD3,CD3,1117,134
+Hematology,Bone Marrow,51320,CD33,CD33,317,63
+Hematology,Bone Marrow,51321,CD34,CD34,399,94
+Hematology,Bone Marrow,51322,CD38,CD38,39,4
+Hematology,Bone Marrow,51323,CD4,CD4,398,68
+Hematology,Bone Marrow,51324,CD41,CD41,262,50
+Hematology,Bone Marrow,51325,CD45,CD45,1224,175
+Hematology,Bone Marrow,51326,CD5,CD5,1097,127
+Hematology,Bone Marrow,51327,CD55,CD55,6,0
+Hematology,Bone Marrow,51328,CD56,CD56,315,54
+Hematology,Bone Marrow,51329,CD57,CD57,34,3
+Hematology,Bone Marrow,51330,CD59,CD59,5,0
+Hematology,Bone Marrow,51331,CD64,CD64,281,54
+Hematology,Bone Marrow,51332,CD7,CD7,717,97
+Hematology,Bone Marrow,51333,CD71,CD71,260,47
+Hematology,Bone Marrow,51334,CD8,CD8,386,66
+Hematology,Bone Marrow,51335,FMC-7,FMC-7,858,79
+Hematology,Bone Marrow,51336,糖蛋白A,Glyco A,257,47
+Hematology,Bone Marrow,51337,HLA-DR,HLA-DR,1110,132
+Hematology,Bone Marrow,51338,免疫表型鉴定,Immunophenotyping,3025,422
+Hematology,Bone Marrow,51339,铁染色,Iron Stain,0,0
+Hematology,Bone Marrow,51340,Kappa免疫球蛋白轻链,Kappa,1118,133
+Hematology,Bone Marrow,51341,Lambda免疫球蛋白轻链,Lambda,1118,133
+Hematology,Bone Marrow,51342,氏权佳姆薛,Wright Giemsa,1361,208
+Hematology,Stool,52405,,Prblm,0,0
+Hematology,Joint Fluid,51365,异型淋巴细胞,Atypical Lymphocytes,160,8
+Hematology,Joint Fluid,51366,带状细胞,Bands,238,36
+Hematology,Joint Fluid,51367,嗜碱细胞,Basophils,233,11
+Hematology,Joint Fluid,51368,嗜酸性粒细胞,Eosinophils,1078,72
+Hematology,Joint Fluid,51369,关节液，血细胞比容,"Hematocrit, Joint Fluid",728,79
+Hematology,Joint Fluid,51370,关节结晶，偏振光学,"Joint Crystals, Birefringence",1260,161
+Hematology,Joint Fluid,51371,关节结晶，评论,"Joint Crystals, Comment",1260,161
+Hematology,Joint Fluid,51372,关节结晶，位置,"Joint Crystals, Location",1260,161
+Hematology,Joint Fluid,51373,关节结晶，数目,"Joint Crystals, Number",4752,448
+Hematology,Joint Fluid,51374,关节结晶，形状,"Joint Crystals, Shape",1260,161
+Hematology,Joint Fluid,51375,淋巴细胞,Lymphocytes,5111,495
+Hematology,Joint Fluid,51376,巨噬细胞,Macrophage,2884,243
+Hematology,Joint Fluid,51377,间皮细胞,Mesothelial Cells,312,8
+Hematology,Joint Fluid,51378,髓粒细胞,Metamyelocytes,23,3
+Hematology,Joint Fluid,51379,单核细胞,Monocytes,5111,495
+Hematology,Joint Fluid,51380,NRBC,NRBC,85,11
+Hematology,Joint Fluid,51381,其他,Other,889,22
+Hematology,Joint Fluid,51382,多形核细胞,Polys,5111,495
+Hematology,Joint Fluid,51383,关节液，红细胞,"RBC, Joint Fluid",4682,440
+Hematology,Other Body Fluid,51385,异型淋巴细胞,Atypical Lymphocytes,165,97
+Hematology,Other Body Fluid,51386,带状细胞,Bands,201,141
+Hematology,Other Body Fluid,51387,嗜碱细胞,Basophils,287,133
+Hematology,Other Body Fluid,51388,CD10,CD10,1469,204
+Hematology,Other Body Fluid,51389,CD103,CD103,10,2
+Hematology,Other Body Fluid,51390,CD117,CD117,44,15
+Hematology,Other Body Fluid,51391,CD11c细胞表面标志,CD11c,27,7
+Hematology,Other Body Fluid,51392,CD13,CD13,70,22
+Hematology,Other Body Fluid,51393,CD138,CD138,38,16
+Hematology,Other Body Fluid,51394,CD14,CD14,33,10
+Hematology,Other Body Fluid,51395,CD15,CD15,41,15
+Hematology,Other Body Fluid,51396,CD16,CD16,13,2
+Hematology,Other Body Fluid,51397,CD16/56,CD16/56,83,15
+Hematology,Other Body Fluid,51398,CD19,CD19,2056,326
+Hematology,Other Body Fluid,51399,CD2,CD2,886,104
+Hematology,Other Body Fluid,51400,CD20,CD20,1471,206
+Hematology,Other Body Fluid,51401,CD22,CD22,16,3
+Hematology,Other Body Fluid,51402,CD23,CD23,1173,160
+Hematology,Other Body Fluid,51403,CD25,CD25,19,6
+Hematology,Other Body Fluid,51404,CD3,CD3,1388,199
+Hematology,Other Body Fluid,51405,CD33,CD33,38,11
+Hematology,Other Body Fluid,51406,CD34,CD34,434,63
+Hematology,Other Body Fluid,51407,CD38,CD38,42,6
+Hematology,Other Body Fluid,51408,CD4,CD4,199,33
+Hematology,Other Body Fluid,51409,CD4/CD8比例,CD4/CD8 Ratio,48,8
+Hematology,Other Body Fluid,51410,CD41,CD41,14,3
+Hematology,Other Body Fluid,51411,CD45,CD45,2083,336
+Hematology,Other Body Fluid,51412,CD5,CD5,1509,207
+Hematology,Other Body Fluid,51413,CD56,CD56,57,17
+Hematology,Other Body Fluid,51414,CD57,CD57,13,1
+Hematology,Other Body Fluid,51415,CD64,CD64,27,10
+Hematology,Other Body Fluid,51416,CD7,CD7,891,104
+Hematology,Other Body Fluid,51417,CD71,CD71,14,4
+Hematology,Other Body Fluid,51418,CD8,CD8,195,32
+Hematology,Other Body Fluid,51419,嗜酸性粒细胞,Eosinophils,1550,787
+Hematology,Other Body Fluid,51420,FMC-7,FMC-7,1176,161
+Hematology,Other Body Fluid,51421,糖蛋白A,Glyco A,13,3
+Hematology,Other Body Fluid,51422,血细胞比容,"Hematocrit, Other Fluid",487,335
+Hematology,Other Body Fluid,51423,HLA-DR,HLA-DR,1198,166
+Hematology,Other Body Fluid,51424,免疫表型鉴定,Immunophenotyping,4408,752
+Hematology,Other Body Fluid,51425,Kappa免疫球蛋白轻链,Kappa,1922,295
+Hematology,Other Body Fluid,51426,Lambda免疫球蛋白轻链,Lambda,1922,295
+Hematology,Other Body Fluid,51427,淋巴细胞,Lymphocytes,4221,2545
+Hematology,Other Body Fluid,51428,巨噬细胞,Macrophage,3149,1832
+Hematology,Other Body Fluid,51429,间皮细胞,Mesothelial cells,976,489
+Hematology,Other Body Fluid,51430,髓粒细胞,Metamyelocytes,34,23
+Hematology,Other Body Fluid,51431,单核细胞,Monos,4221,2545
+Hematology,Other Body Fluid,51432,髓母细胞,Myelocytes,22,14
+Hematology,Other Body Fluid,51433,NRBC,NRBC,103,75
+Hematology,Other Body Fluid,51434,其他细胞,Other Cell,1793,1067
+Hematology,Other Body Fluid,51435,血浆,Plasma,118,63
+Hematology,Other Body Fluid,51436,多形核细胞,Polys,4221,2545
+Hematology,Other Body Fluid,51437,早幼粒细胞,Promyelocytes,17,10
+Hematology,Other Body Fluid,51438,RBC，其他液体,"RBC, Other Fluid",1481,702
+Hematology,Pleural,51440,异型淋巴细胞,Atypical Lymphocytes,433,140
+Hematology,Pleural,51441,带状细胞,Bands,211,109
+Hematology,Pleural,51442,嗜碱细胞,Basophils,652,218
+Hematology,Pleural,51443,原始细胞,Blasts,14,7
+Hematology,Pleural,51444,嗜酸性粒细胞,Eosinophils,2204,741
+Hematology,Pleural,51445,胸腔血细胞比容,"Hematocrit, Pleural",955,441
+Hematology,Pleural,51446,淋巴细胞,Lymphocytes,5578,2408
+Hematology,Pleural,51447,巨噬细胞,Macrophages,4488,1871
+Hematology,Pleural,51448,间皮细胞,Mesothelial Cells,3653,1536
+Hematology,Pleural,51449,髓粒细胞,Metamyelocytes,43,20
+Hematology,Pleural,51450,单核细胞,Monos,5578,2408
+Hematology,Pleural,51451,髓母细胞,Myelocytes,25,10
+Hematology,Pleural,51452,NRBC,NRBC,168,89
+Hematology,Pleural,51453,其他,Other,2950,1154
+Hematology,Pleural,51454,浆细胞,Plasma Cells,693,315
+Hematology,Pleural,51455,多形核细胞,Polys,5578,2408
+Hematology,Pleural,51456,早幼粒细胞,Promyelocytes,39,15
+Hematology,Pleural,51457,胸腔红细胞,"RBC, Pleural",5274,2241
+Hematology,Pleural,51459,幼细胞,Young Cells,1,0
+Hematology,Stool,51460,血中潜在的,"Blood, Occult",1906,363
+Hematology,Urine,51461,柠檬酸酮铵,Ammonium Biurate,26,4
+Hematology,Urine,51462,非晶形结晶,Amorphous Crystals,29933,6950
+Hematology,Urine,51463,细菌,Bacteria,180830,33806
+Hematology,Urine,51464,胆红素,Bilirubin,227738,40099
+Hematology,Urine,51465,胆红素晶体,Bilirubin Crystals,86,19
+Hematology,Urine,51466,血液,Blood,227738,40099
+Hematology,Urine,51467,宽管型,Broad Casts,115,44
+Hematology,Urine,51468,碳酸钙晶体,Calcium Carbonate Crystals,19,5
+Hematology,Urine,51469,草酸钙晶体,Calcium Oxalate Crystals,13283,893
+Hematology,Urine,51470,磷酸钙晶体,Calcium Phosphate Crystals,91,18
+Hematology,Urine,51471,细胞管型,Cellular Cast,979,325
+Hematology,Urine,51472,胆固醇结晶,Cholesterol Crystals,20,5
+Hematology,Urine,51473,半胱氨酸结晶体,Cysteine Crystals,18,4
+Hematology,Urine,51474,嗜酸性粒细胞,Eosinophils,5544,2111
+Hematology,Urine,51475,上皮管型,Epithelial Casts,35,2
+Hematology,Urine,51476,上皮细胞,Epithelial Cells,180829,33806
+Hematology,Urine,51477,游离脂肪,Free Fat,10,2
+Hematology,Urine,51478,葡萄糖,Glucose,227738,40099
+Hematology,Urine,51479,颗粒铸体,Granular Casts,13244,5081
+Hematology,Urine,51480,红细胞比容,Hematocrit,15,5
+Hematology,Urine,51481,血铁素,Hemosiderin,668,157
+Hematology,Urine,51482,透明管型,Hyaline Casts,61676,15617
+Hematology,Urine,51483,Hyphenated酵母,Hyphenated Yeast,5,0
+Hematology,Urine,51484,酮体,Ketone,227738,40099
+Hematology,Urine,51485,亮氨酸结晶体,Leucine Crystals,7,2
+Hematology,Urine,51486,白细胞,Leukocytes,227738,40099
+Hematology,Urine,51487,亚硝酸盐,Nitrite,227738,40099
+Hematology,Urine,51488,非鳞状上皮细胞,Non-squamous Epithelial Cells,190,43
+Hematology,Urine,51489,非鳞状上皮细胞,NonSquamous Epithelial Cell,746,57
+Hematology,Urine,51490,椭圆脂肪体,Oval Fat Body,33,12
+Hematology,Urine,51491,pH值,pH,227738,40099
+Hematology,Urine,51492,蛋白质,Protein,227738,40099
+Hematology,Urine,51493,红细胞,RBC,180830,33806
+Hematology,Urine,51494,红细胞管型,RBC Casts,104,45
+Hematology,Urine,51495,红细胞团块,RBC Clumps,39,11
+Hematology,Urine,51496,尿糖还原物质,"Reducing Substances, Urine",5,1
+Hematology,Urine,51497,肾上皮细胞,Renal Epithelial Cells,7064,897
+Hematology,Urine,51498,比重,Specific Gravity,227738,40099
+Hematology,Urine,51499,精子,Sperm,682,74
+Hematology,Urine,51500,磺胺类药物,Sulfonamides,8,1
+Hematology,Urine,51501,过渡性上皮细胞,Transitional Epithelial Cells,45646,7648
+Hematology,Urine,51502,滴虫,Trichomonas,138,4
+Hematology,Urine,51503,磷酸铵镁晶体,Triple Phosphate Crystals,1160,193
+Hematology,Urine,51504,酪氨酸结晶,Tyrosine Crystals,7,1
+Hematology,Urine,51505,尿酸晶体,Uric Acid Crystals,2408,812
+Hematology,Urine,51506,尿液外观,Urine Appearance,227738,40099
+Hematology,Urine,51507,其他尿液管型,"Urine Casts, Other",416,73
+Hematology,Urine,51508,尿色,Urine Color,227738,40099
+Hematology,Urine,51509,尿液备注,Urine Comments,353,65
+Hematology,Urine,51510,其他尿晶体,"Urine Crystals, Other",409,73
+Hematology,Urine,51511,尿脂肪体,Urine Fat Bodies,75,13
+Hematology,Urine,51512,尿黏液,Urine Mucous,145945,27065
+Hematology,Urine,51513,尿液样本类型,Urine Specimen Type,5780,207
+Hematology,Urine,51514,尿胆元,Urobilinogen,227738,40099
+Hematology,Urine,51515,蜡样管型,Waxy Casts,307,77
+Hematology,Urine,51516,白细胞,WBC,180831,33806
+Hematology,Urine,51517,白细胞管型,WBC Casts,688,190
+Hematology,Urine,51518,白细胞团块,WBC Clumps,13826,3133
+Hematology,Urine,51519,酵母,Yeast,180828,33806
+Chemistry,Blood,51556,抗微体抗体,Anti-Microsomal Antibodies,0,0
+Chemistry,Blood,51557,抗微体抗体,Anti-Microsomal Antibody,0,0
+Chemistry,Blood,51558,抗核糖体抗体,Antirnp,0,0
+Chemistry,Blood,51559,抗ro抗体,Anti-ro,0,0
+Chemistry,Blood,51560,抗SARS-CoV-2IgA抗体,Anti-SARS-CoV-2 IgA,0,0
+Chemistry,Blood,51562,抗皮肤抗体,Anti-Skin Antibody,0,0
+Chemistry,Blood,51563,抗-sm抗体,Anti-sm,0,0
+Chemistry,Blood,51564,ARCH-1抗体,ARCH-1,27754,3431
+Chemistry,Blood,51565,氩,Argon,0,0
+Chemistry,Blood,51566,β,Beta,0,0
+Chemistry,Blood,51567,β羟基丁酸,Beta Hydroxybutyrate,1819,523
+Chemistry,Blood,51568,新生儿胆红素,"Bilirubin, Neonatal",0,0
+Chemistry,Blood,51569,新生儿直接胆红素,"Bilirubin, Neonatal, Direct",0,0
+Chemistry,Blood,51570,新生儿间接胆红素,"Bilirubin, Neonatal, Indirect",0,0
+Chemistry,Blood,51571,账单,Billed,0,0
+Chemistry,Blood,51572,生物可利用性睾酮,Bioavailable Testosterone,0,0
+Chemistry,Blood,51573,溴化物,Bromide,0,0
+Chemistry,Blood,51574,C1抑制物,C1 Inhibitor,0,0
+Chemistry,Blood,51575,C1q补体,C1q,0,0
+Chemistry,Blood,51576,C2补体成分,C2,0,0
+Chemistry,Blood,51577,C5补体成分,C5,0,0
+Chemistry,Blood,51578,C6补体成分,C6,0,0
+Chemistry,Blood,51579,CA19-9肿瘤标志物,CA 19-9,1701,175
+Chemistry,Blood,51580,计算耳基酶同型酶MB,Calculated CK-MB,0,0
+Chemistry,Blood,51581,胡萝卜素,Carotene,0,0
+Chemistry,Blood,51582,CH50补体活性,CH50,0,0
+Chemistry,Blood,51583,胆固醇酯,Chol Estr,0,0
+Chemistry,Blood,51584,胆固醇猪脂酮,Chylomicrons,0,0
+Chemistry,Blood,51585,梭菌,Clostrid,0,0
+Chemistry,Blood,51586,巨细胞病毒IgG抗体,CMV IgG Ab,2572,517
+Chemistry,Blood,51587,巨细胞病毒IgG抗体价,CMV IgG Ab Value,2571,517
+Chemistry,Blood,51588,巨细胞病毒IgM抗体,CMV IgM Ab,2212,425
+Chemistry,Blood,51589,巨细胞病毒IgM抗体价,CMV IgM Ab Value,0,0
+Chemistry,Blood,51590,巨细胞病毒解释,CMV Interpretation,2212,425
+Chemistry,Blood,51591,确认,Confirmation,0,0
+Chemistry,Blood,51592,结合胆红素,Conj Bili,0,0
+Chemistry,Blood,51593,铜,Copper,0,0
+Chemistry,Blood,51594,肌酐激酶,"Creatine Kinase, Isoenzyme BB",0,0
+Chemistry,Blood,51595,肌酐激酶,"Creatine Kinase, Isoenzyme MB",0,0
+Chemistry,Blood,51596,肌酐激酶,"Creatine Kinase, Isoenzyme MM",0,0
+Chemistry,Blood,51597,,Cvhlc,0,0
+Chemistry,Blood,51598,巨细胞病毒载量,Cytomegalovirus Viral Load,1682,417
+Chemistry,Blood,51599,D类补体,D,0,0
+Chemistry,Blood,51600,删除,Delete,0,0
+Chemistry,Blood,51601,删除,Delete,0,0
+Chemistry,Blood,51602,删除,Delete,0,0
+Chemistry,Blood,51603,删除,Delete,0,0
+Chemistry,Blood,51604,删除,Delete,0,0
+Chemistry,Blood,51605,删除,Delta/Dlt,0,0
+Chemistry,Blood,51606,Δ/ΔL值,Digitoxin,0,0
+Chemistry,Blood,51607,地高辛,"Dimeric Inhibin A, Maternal Screen",0,0
+Chemistry,Blood,51608,二聚体抑制性激素A,DirLst,0,0
+Chemistry,Blood,51609,二异吡嗪酮,Disopyramide,0,0
+Chemistry,Blood,51610,二羟吡啶胺,Dlta Bili,0,0
+Chemistry,Blood,51611,Δ胆红素,Down Syndrome Risk,0,0
+Chemistry,Blood,51612,唐氏综合症风险,Dr. X,0,0
+Chemistry,Blood,51613,X医生,eAG,89270,14463
+Chemistry,Blood,51614,Epstein-Barr病毒EBNAIgG抗体,Epstein-Barr Virus  EBNA IgG Ab,2344,472
+Chemistry,Blood,51615,爱泼斯坦-巴尔病毒EBNAIgG抗体,Epstein-Barr Virus EBNA IgG Ab,2345,472
+Chemistry,Blood,51616,爱泼斯坦-巴尔病毒EBNAIgG抗体,Epstein-Barr Virus IgG Ab Value,2345,472
+Chemistry,Blood,51617,爱泼斯坦-巴尔病毒IgG抗体值,Epstein-Barr Virus IgM Ab Value,2345,472
+Chemistry,Blood,51618,爱泼斯坦-巴尔病毒IgM抗体值,Epstein-Barr Virus Interpretation,2344,472
+Chemistry,Blood,51619,爱泼斯坦-巴尔病毒解释,Epstein-Barr Virus VCA IgG Ab,2344,472
+Chemistry,Blood,51620,爱泼斯坦-巴尔病毒VCAIgG抗体,Epstein-Barr Virus VCA IgM Ab,2344,472
+Chemistry,Blood,51621,爱泼斯坦-巴尔病毒VCAIgM抗体,Ethylene Glycol,236,127
+Chemistry,Blood,51623,纤维蛋白ogen,Fibrinogen,0,0
+Chemistry,Blood,51624,游离钙,Free Calcium,996,0
+Chemistry,Blood,51625,游离前刃蛋白轻链,Free Kappa,4594,806
+Chemistry,Blood,51626,游离前刃蛋白轻链/游离λ轻链比率,Free Kappa/Free Lambda Ratio,4591,805
+Chemistry,Blood,51627,游离λ轻链,Free Lambda,4594,807
+Chemistry,Blood,51628,果糖胺,Fructosamine,0,0
+Chemistry,Blood,51629,果糖胺Plus,Fructosamine Plus,0,0
+Chemistry,Blood,51630,Gamma免疫球蛋白重链,Gamma,0,0
+Chemistry,Blood,51631,糖化血红蛋白,Glycated Hemoglobin,0,0
+Chemistry,Blood,51632,生长激素,Growth Hormone,0,0
+Chemistry,Blood,51633,乙型肝炎e抗原,Hbeag,0,0
+Chemistry,Blood,51634,乙型肝炎表面抗原,Hbsag,0,0
+Chemistry,Blood,51635,乙型肝炎表面抗原,Hbsag,0,0
+Chemistry,Blood,51636,人绒毛膜促性腺激素,"HCG, Multiples of Median",0,0
+Chemistry,Blood,51637,人绒毛膜促性腺激素,"HCG, Qualitative",0,0
+Chemistry,Blood,51638,红细胞比容,Hematocrit,1030,0
+Chemistry,Blood,51639,红细胞比容,Hematocrit,17,0
+Chemistry,Blood,51640,血红蛋白,Hemoglobin,17,0
+Chemistry,Blood,51641,血红蛋白A,Hemoglobin  A,0,0
+Chemistry,Blood,51642,血红蛋白A1,Hemoglobin  A1,0,0
+Chemistry,Blood,51643,血红蛋白A2,Hemoglobin  A2,0,0
+Chemistry,Blood,51644,血红蛋白C,Hemoglobin  C,0,0
+Chemistry,Blood,51645,计算血红蛋白,"Hemoglobin, Calculated",1030,0
+Chemistry,Blood,51646,血红蛋白F,Hemoglobin  F,0,0
+Chemistry,Blood,51647,血红蛋白S,Hemoglobin  S,0,0
+Chemistry,Blood,51648,乙型肝炎病毒载量,Hepatitis B Viral Load,2610,458
+Chemistry,Blood,51649,乙型肝炎病毒E抗体,Hepatitis B Virus E Antibody,0,0
+Chemistry,Blood,51650,乙型肝炎病毒E抗原,Hepatitis B Virus E Antigen,0,0
+Chemistry,Blood,51651,丙型肝炎病毒载量,Hepatitis C Viral Load,2854,540
+Chemistry,Blood,51652,高灵敏度C反应蛋白,High-Sensitivity CRP,344,42
+Chemistry,Blood,51653,HIV1抗体确认,HIV 1 Ab Confirmation,254,32
+Chemistry,Blood,51654,HIV1病毒载量,HIV 1 Viral Load,1617,278
+Chemistry,Blood,51655,HIV2抗体确认,HIV 2 Ab Confirmation,254,32
+Chemistry,Blood,51656,,Hlap,0,0
+Chemistry,Blood,51657,HPE1,HPE1,28040,5011
+Chemistry,Blood,51658,HPE2,HPE2,24585,4702
+Chemistry,Blood,51659,HPE3,HPE3,21250,4580
+Chemistry,Blood,51660,HPE4,HPE4,9569,1564
+Chemistry,Blood,51661,HPE5,HPE5,1306,364
+Chemistry,Blood,51662,HPE6,HPE6,3332,886
+Chemistry,Blood,51663,HPE7,HPE7,28614,4756
+Chemistry,Blood,51664,HPE8,HPE8,1147,281
+Chemistry,Blood,51665,HPE9,HPE9,11,2
+Chemistry,Blood,51666,幽门螺杆菌IgG抗体,H. pylori IgG Ab,1073,83
+Chemistry,Blood,51667,幽门螺杆菌IgG抗体价,H. pylori IgG Ab Value,1022,81
+Chemistry,Blood,51668,,Hsap,0,0
+Chemistry,Blood,51669,人T淋巴细胞病毒抗体,Htlv Ab,0,0
+Chemistry,Blood,51670,Icd9代号,Icd9,0,0
+Chemistry,Blood,51671,IFE凝胶,IFEgel,0,0
+Chemistry,Blood,51672,免疫复合体,Immune Complexes,0,0
+Chemistry,Blood,51673,免疫电泳,Immunoelectrophoresis,0,0
+Chemistry,Blood,51674,免疫球蛋白E,Immunoglobulin E,0,0
+Chemistry,Blood,51675,凝血酶原时间国际标准化比值(PT-INR),INR(PT),69,0
+Chemistry,Blood,51676,胰岛素,Insulin,0,0
+Chemistry,Blood,51677,钾(绿色标记),K (GREEN),517,3
+Chemistry,Blood,51678,L组织酶活性,L,159238,32113
+Chemistry,Blood,51679,黏多糖病,Lap,0,0
+Chemistry,Blood,51680,乳酸脱氢酶,"LD, Isoenzyme 1",0,0
+Chemistry,Blood,51681,乳酸脱氢酶,"LD, Isoenzyme 2",0,0
+Chemistry,Blood,51682,乳酸脱氢酶,"LD, Isoenzyme 3",0,0
+Chemistry,Blood,51683,乳酸脱氢酶,"LD, Isoenzyme 4",0,0
+Chemistry,Blood,51684,乳酸脱氢酶,"LD, Isoenzyme 5",0,0
+Chemistry,Blood,51685,利多卡因,Lidocaine,0,0
+Chemistry,Blood,51686,脂质2),Lip2,0,0
+Chemistry,Blood,51687,脂蛋白电泳,Lipo Electrophoresis,0,0
+Chemistry,Blood,51688,莱姆病C6抗体,Lyme C6 Ab,1824,209
+Chemistry,Blood,51689,莱姆病G和M值,Lyme G and M Value,3437,406
+Chemistry,Blood,51691,平均红细胞体积,MCV,17,0
+Chemistry,Blood,51692,单核细胞快速抗原检测,"Monospot, Rapid Antigen",80,0
+Chemistry,Blood,51693,腮腺炎IgG抗体,Mumps IgG Ab,1805,178
+Chemistry,Blood,51694,腮腺炎IgG抗体值,Mumps IgG Ab Value,1807,178
+Chemistry,Blood,51695,肌红蛋白,Myoglobin,0,0
+Chemistry,Blood,51696,神经管缺陷风险,Neural Tube Defect Risk,0,0
+Chemistry,Blood,51698,无医生,No MD,0,0
+Chemistry,Blood,51699,未完成,Not Done,0,0
+Chemistry,Blood,51700,Np-fx东瓜黄苜蓿病毒,Np-fx,0,0
+Chemistry,Blood,51701,计算渗透压,"Osmolality, Calculated",0,0
+Chemistry,Blood,51702,帕金森病,Park,0,0
+Chemistry,Blood,51703,PEP凝胶测试,PEPgel,0,0
+Chemistry,Blood,51705,苯妥英,Primidone,0,0
+Chemistry,Blood,51706,问题样本,Problem Specimen,25567,5082
+Chemistry,Blood,51707,孕酮,Progesterone,0,0
+Chemistry,Blood,51708,量化的乙型肝炎表面抗体,Qnthbsab,0,0
+Chemistry,Blood,51709,梅毒衣原体抗体定量试验,Quantitative RPR Test,5,0
+Chemistry,Blood,51710,快速血浆反应素试验,Rapid Plasma Reagin Test,10,0
+Chemistry,Blood,51712,推荐,Referred,0,0
+Chemistry,Blood,51713,病毒丙型肝炎病毒载量反射确认,Reflex Confirmatory Hepatitis C Viral Load,116,33
+Chemistry,Blood,51714,HIV反射确认,Reflex HIV Confirmation,26,3
+Chemistry,Blood,51715,肾素,Renin,0,0
+Chemistry,Blood,51717,保留,Reserved,0,0
+Chemistry,Blood,51718,保留1,Reserved1,0,0
+Chemistry,Blood,51719,保留3,Reserved3,0,0
+Chemistry,Blood,51720,保留4,Reserved4,0,0
+Chemistry,Blood,51721,反向T3激素,Reverse T3,0,0
+Chemistry,Blood,51722,RFXLDLM指标,RFXLDLM,1844,143
+Chemistry,Blood,51723,风疹病毒,Rubella,0,0
+Chemistry,Blood,51724,风疹病毒IgG抗体,Rubella IgG Ab,4063,182
+Chemistry,Blood,51725,麻疹病毒IgG抗体,Rubeola IgG Ab,1986,174
+Chemistry,Blood,51726,麻疹病毒IgG抗体价,Rubeola IgG Ab Value,1988,174
+Chemistry,Blood,51727,发外测试,Send Out,0,0
+Chemistry,Blood,51728,血清B12,Serum B12,0,0
+Chemistry,Blood,51729,血清B12,Serum B12,0,0
+Chemistry,Blood,51730,血清叶酸,Serum Folate,0,0
+Chemistry,Blood,51731,单链DNA,Single Stranded DNA,0,0
+Chemistry,Blood,51732,STX1指标,STX1,31665,2537
+Chemistry,Blood,51733,STX2指标,STX2,31470,2518
+Chemistry,Blood,51734,STX3指标,STX3,32051,2724
+Chemistry,Blood,51735,STX4指标,STX4,10145,797
+Chemistry,Blood,51736,STX5指标,STX5,10134,794
+Chemistry,Blood,51737,STX6指标,STX6,29679,2344
+Chemistry,Blood,51738,甲状腺结合球蛋白,Thyroid Binding Globulin,0,0
+Chemistry,Blood,51739,总二氧化碳,Total CO2,997,0
+Chemistry,Blood,51740,毒性筛查,Toxic Screen,0,0
+Chemistry,Blood,51741,弓形虫IgG抗体,Toxoplasma IgG Ab,1525,261
+Chemistry,Blood,51742,弓形虫IgG抗体值,Toxoplasma IgG Ab Value,1522,261
+Chemistry,Blood,51743,弓形虫IgM抗体,Toxoplasma IgM Ab,435,90
+Chemistry,Blood,51744,弓形虫IgM抗体值,Toxoplasma IgM Ab Value,436,90
+Chemistry,Blood,51745,弓形虫解释,Toxoplasma Interpretation,1525,261
+Chemistry,Blood,51746,转铁蛋白饱和度,Transferrin Saturation,0,0
+Chemistry,Blood,51747,梅毒抗体测试,Treponemal Antibody Test,0,0
+Chemistry,Blood,51748,梅毒螺旋体抗体,Treponema pallidum (Syphilis) Ab,10286,729
+Chemistry,Blood,51749,梅毒螺旋体(梅毒)数值,Treponema pallidum (syphilis) value,10265,728
+Chemistry,Blood,51750,UE3，中位数倍数,"UE3, Multiples of Median",0,0
+Chemistry,Blood,51751,无偏振光胆红素,Uncon Bil,0,0
+Chemistry,Blood,51752,排空标本,Voided Specimen,13948,3985
+Chemistry,Blood,51753,水痘带形疱疹病毒IgG抗体,VZV IgG Ab,4129,228
+Chemistry,Blood,51754,水痘带形疱疹病毒IgG抗体值,VZV IgG Ab Value,4130,228
+Chemistry,Blood,51755,白细胞,White Blood Cells,474,0
+Chemistry,Blood,51756,白细胞,White Blood Cells,17,0
+Chemistry,Blood,51757,,Xxx,0,0
+Chemistry,Blood,51758,木糖,Xylose,0,0
+Chemistry,Blood,51759,Z,Z,0,0
+Chemistry,Blood,51760,Z,Z,0,0
+Chemistry,Blood,51761,锌,Zinc,0,0
+Chemistry,Blood,51762,EE1,EE1,830,107
+Chemistry,Blood,51763,EE2,EE2,731,97
+Chemistry,Blood,51764,EE7,EE7,547,85
+Chemistry,Blood,51765,EE3,EE3,243,27
+Chemistry,Blood,51767,EE5,EE5,96,31
+Chemistry,Blood,51768,EE6,EE6,866,107
+Chemistry,Blood,51769,风疹家族病毒IgG变异体,RUBIgGV,4061,182
+Chemistry,Blood,51770,MDRD肾小球滤过率,MDRDgfr,0,0
+Chemistry,Blood,51771,,,0,0
+Chemistry,Blood,51772,PAN3,PAN3,943,146
+Chemistry,Blood,51773,RFXFRKL,RFXFRKL,0,0
+Chemistry,Blood,51774,RFXHCV,RFXHCV,0,0
+Chemistry,Cerebrospinal Fluid,51775,(白蛋白),(Albumin),0,0
+Chemistry,Cerebrospinal Fluid,51776,白蛋白,<Albumin>,38,2
+Chemistry,Cerebrospinal Fluid,51777,脑脊液中的白蛋白,"Albumin, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51778,Alpha-1,Alpha-1,0,0
+Chemistry,Cerebrospinal Fluid,51779,Alpha-2,Alpha-2,0,0
+Chemistry,Cerebrospinal Fluid,51780,脑脊液中的淀粉酶,"Amylase, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51781,β,Beta,0,0
+Chemistry,Cerebrospinal Fluid,51782,脑脊液中的碳酸氢盐,"Bicarbonate, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51783,总胆红素，脑脊液中,"Bilirubin, Total, CSF",4,3
+Chemistry,Cerebrospinal Fluid,51784,脑脊液中的氯化物,"Chloride, CSF",1,0
+Chemistry,Cerebrospinal Fluid,51785,脑脊液中的胆固醇,"Cholesterol, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51786,梭菌,Clostrid,0,0
+Chemistry,Cerebrospinal Fluid,51787,脑脊液中的肌酐,"Creatinine, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51788,隐球菌,Cryptococ,0,0
+Chemistry,Cerebrospinal Fluid,51789,Fl扫描,Fl Scan,0,0
+Chemistry,Cerebrospinal Fluid,51790,脑脊液中的葡萄糖,"Glucose, CSF",10544,2336
+Chemistry,Cerebrospinal Fluid,51791,HIV1病毒载量,HIV 1 Viral Load,14,4
+Chemistry,Cerebrospinal Fluid,51792,脑脊液免疫电泳,"Immunoelectrophoresis, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51793,脑脊液中的免疫球蛋白G,"Immunoglobulin G, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51794,脑脊液中的免疫球蛋白G,"Immunoglobulin G, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51795,脑脊液中的乳酸脱氢酶,"Lactate Dehydrogenase, CSF",1689,388
+Chemistry,Cerebrospinal Fluid,51796,脑脊液中的其他物质,"Miscellaneous, CSF",315,21
+Chemistry,Cerebrospinal Fluid,51797,脑脊液中的渗透压,"Osmolality, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51798,脑脊液中的PEP,"PEP, CSF",589,60
+Chemistry,Cerebrospinal Fluid,51799,脑脊液中的PEP，Gamma区域,"PEP, CSF, Gamma Region",0,0
+Chemistry,Cerebrospinal Fluid,51800,脑脊液中的钾,"Potassium, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51801,脑脊液中的钠,"Sodium, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51802,脑脊液中的总蛋白,"Total Protein, CSF",10667,2369
+Chemistry,Cerebrospinal Fluid,51803,脑脊液中的甘油三酯,"Triglycerides, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51804,脑脊液中的尿素氮,"Urea Nitrogen, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51805,脑脊液中的尿酸,"Uric Acid, CSF",0,0
+Chemistry,Cerebrospinal Fluid,51806,排空标本,Voided Specimen,32,18
+Chemistry,Joint Fluid,51807,(白蛋白),(Albumin),0,0
+Chemistry,Joint Fluid,51808,Alpha-1,Alpha-1,0,0
+Chemistry,Joint Fluid,51809,Alpha-2,Alpha-2,0,0
+Chemistry,Joint Fluid,51810,β,Beta,0,0
+Chemistry,Joint Fluid,51811,JointFluid中的碳酸氢盐,"Bicarbonate,Joint Fluid",0,0
+Chemistry,Joint Fluid,51812,JointFluid中的总胆红素,"Bilirubin, Total, Joint Fluid",0,0
+Chemistry,Joint Fluid,51813,JointFluid中的氯化物,"Chloride, Joint Fluid",0,0
+Chemistry,Joint Fluid,51814,关节液中的胆固醇,"Cholesterol, Joint Fluid",0,0
+Chemistry,Joint Fluid,51815,梭菌,Clostrid,0,0
+Chemistry,Joint Fluid,51816,隐球菌,Cryptococ,0,0
+Chemistry,Joint Fluid,51817,Fl扫描,Fl Scan,0,0
+Chemistry,Joint Fluid,51818,关节液中的IgG,"IgG, Joint Fluid",0,0
+Chemistry,Joint Fluid,51819,关节液免疫电泳,"Immunoelectrophoresis, Joint Fluid",0,0
+Chemistry,Joint Fluid,51820,关节液渗透压,"Osmolality, Joint Fluid",0,0
+Chemistry,Joint Fluid,51821,关节液中的PEP，Gamma区域,"PEP, Joint Fluid, Gamma Region",0,0
+Chemistry,Joint Fluid,51822,关节液中的钾,"Potassium, Joint Fluid",0,0
+Chemistry,Joint Fluid,51823,关节液中的钠,"Sodium, Joint Fluid",0,0
+Chemistry,Joint Fluid,51824,关节液中的甘油三酯,"Triglycerides, Joint Fluid",0,0
+Chemistry,Joint Fluid,51825,关节液中的尿素氮,"Urea Nitrogen, Joint Fluid",0,0
+Chemistry,Joint Fluid,51826,关节液中的尿酸,"Uric Acid, Joint Fluid",1,0
+Chemistry,Joint Fluid,51827,排空标本,Voided Specimen,10,0
+Chemistry,Bone Marrow,51828,排空标本,Voided Specimen,0,0
+Chemistry,Other Body Fluid,51829,72小时脂肪,72 Hr Fat,0,0
+Chemistry,Other Body Fluid,51830,酸性BAO,Acid BAO,0,0
+Chemistry,Other Body Fluid,51831,酸性MAO,Acid MAO,0,0
+Chemistry,Other Body Fluid,51833,羊膜液中的AFP,"AFP, Amniotic Fluid",0,0
+Chemistry,Other Body Fluid,51834,体液中的AFP,"AFP, Body Fluid",0,0
+Chemistry,Other Body Fluid,51835,(白蛋白),(Albumi,0,0
+Chemistry,Other Body Fluid,51836,白蛋白,<Albumin>,0,0
+Chemistry,Other Body Fluid,51837,Alpha-1,Alpha-1,0,0
+Chemistry,Other Body Fluid,51838,Alpha-2,Alpha-2,0,0
+Chemistry,Other Body Fluid,51839,解剖病理保留,Anat Path Hold,3535,354
+Chemistry,Other Body Fluid,51840,β,Beta,0,0
+Chemistry,Other Body Fluid,51841,血中潜在的,"Blood, Occult",1,0
+Chemistry,Other Body Fluid,51842,尿素氮,Bun,0,0
+Chemistry,Other Body Fluid,51843,C.diffPCR,C. diff PCR,0,0
+Chemistry,Other Body Fluid,51844,Cdiff毒素抗原检测,C diff Toxin Antigen Assay,0,0
+Chemistry,Other Body Fluid,51846,沙眼衣原体,Chlamydia trachomatis,9295,52
+Chemistry,Other Body Fluid,51847,梭菌,Clostrid,0,0
+Chemistry,Other Body Fluid,51854,隐球菌,Cryptococ,0,0
+Chemistry,Other Body Fluid,51855,羊膜液中的DSPC,"DSPC, Amniotic Fluid",0,0
+Chemistry,Other Body Fluid,51856,,Epr,0,0
+Chemistry,Other Body Fluid,51857,Fl扫描,Fl Scan,0,0
+Chemistry,Other Body Fluid,51858,HIV1病毒载量,HIV 1 Viral Load,0,0
+Chemistry,Other Body Fluid,51861,体液免疫电泳,"Immunoelectrophoresis, Fluid",0,0
+Chemistry,Other Body Fluid,51862,体液中的免疫球蛋白G,"Immunoglobulin G, Body Fluid",0,0
+Chemistry,Other Body Fluid,51864,流感A通过PCR检测,Influenza A by PCR,295,0
+Chemistry,Other Body Fluid,51865,流感A通过PCR检测,Influenza A by PCR,18920,3119
+Chemistry,Other Body Fluid,51869,流感A,"Influenza A, Rapid Antigen",283,0
+Chemistry,Other Body Fluid,51870,流感A,"Influenza A, Rapid Antigen",194,0
+Chemistry,Other Body Fluid,51872,流感B通过PCR检测,Influenza B by PCR,295,0
+Chemistry,Other Body Fluid,51873,流感B通过PCR检测,Influenza B by PCR,18920,3119
+Chemistry,Other Body Fluid,51874,流感B,"Influenza B, Rapid Antigen",283,0
+Chemistry,Other Body Fluid,51875,流感B,"Influenza B, Rapid Antigen",194,0
+Chemistry,Other Body Fluid,51876,羊膜液中的L/S比值,"L/S Ratio, Amniotic Fluid",0,0
+Chemistry,Other Body Fluid,51877,金黄色葡萄球菌PCR,MRSA PCR,4943,2313
+Chemistry,Other Body Fluid,51879,淋病奈瑟菌,Neisseria gonorrhoeae,9293,52
+Chemistry,Other Body Fluid,51880,诺如病毒I群,Norovirus Genogroup I,0,0
+Chemistry,Other Body Fluid,51881,诺如病毒II群,Norovirus Genogroup II,0,0
+Chemistry,Other Body Fluid,51882,O,O & P,0,0
+Chemistry,Other Body Fluid,51887,体液中的PEP,"PEP, Body Fluid",0,0
+Chemistry,Other Body Fluid,51888,体液中的PEP,"PEP, Body Fluid, Gamma Region",0,0
+Chemistry,Other Body Fluid,51889,磷酸酯酮醇,Phosphatidylglycerol,0,0
+Chemistry,Other Body Fluid,51893,葡萄球菌PCR,Staph aureus PCR,4943,2313
+Chemistry,Other Body Fluid,51894,A组链球菌,"Strep A, Rapid Antigen",1669,0
+Chemistry,Other Body Fluid,51895,A组链球菌,"Strep A, Rapid Antigen",559,0
+Chemistry,Other Body Fluid,51896,苏丹染色,Sudan Stain,0,0
+Chemistry,Other Body Fluid,51897,表面活性物/白蛋白,Surfactant/Albumin,34,0
+Chemistry,Other Body Fluid,51898,表面活性物/白蛋白,Surf/Alb,0,0
+Chemistry,Other Body Fluid,51899,阴道滴虫,Trichomonas vaginalis,4054,19
+Chemistry,Other Body Fluid,51900,体液中的尿酸,"Uric Acid, Body Fluid",0,0
+Chemistry,Other Body Fluid,51901,排空标本,Voided Specimen,1064,260
+Chemistry,Other Body Fluid,51902,,Vpf,0,0
+Chemistry,Other Body Fluid,51903,PAN1,PAN1,9282,51
+Chemistry,Other Body Fluid,51904,PAN2,PAN2,4042,19
+Chemistry,Other Body Fluid,51905,, ,0,0
+Chemistry,Other Body Fluid,51906,重用,reuse,0,0
+Chemistry,Other Body Fluid,51907,重用1,reuse1,0,0
+Chemistry,Pleural,51910,(白蛋白),(Albumin),0,0
+Chemistry,Pleural,51911,Alpha-1,Alpha-1,0,0
+Chemistry,Pleural,51912,Alpha-2,Alpha-2,0,0
+Chemistry,Pleural,51913,β,Beta,0,0
+Chemistry,Pleural,51914,梭菌,Clostrid,0,0
+Chemistry,Pleural,51915,隐球菌,Cryptococ,0,0
+Chemistry,Pleural,51916,Fl扫描,Fl Scan,0,0
+Chemistry,Pleural,51917,胸腔免疫电泳,"Immunoelectrophoresis, Pleural",0,0
+Chemistry,Pleural,51918,胸腔内的免疫球蛋白G,"Immunoglobulin G, Pleural",0,0
+Chemistry,Pleural,51919,胸腔内的渗透压,"Osmolality, Pleural",0,0
+Chemistry,Pleural,51920,胸腔内的PEP,"PEP, Pleural, Gamma Region",0,0
+Chemistry,Pleural,51921,胸腔液中的proBNP,"proBNP, Pleural",1744,730
+Chemistry,Pleural,51922,胸腔液中的尿素氮,"Urea Nitrogen, Pleural",2,0
+Chemistry,Pleural,51923,胸腔液中的尿酸,"Uric Acid, Pleural",0,0
+Chemistry,Pleural,51924,排空标本,Voided Specimen,23,12
+Chemistry,Stool,51925,72小时脂肪,72 Hr Fat,0,0
+Chemistry,Stool,51926,(白蛋白),(Albumin),0,0
+Chemistry,Stool,51927,粪便中的白蛋白,"Albumin, Stool",1,1
+Chemistry,Stool,51928,Alpha-1,Alpha-1,0,0
+Chemistry,Stool,51929,Alpha-2,Alpha-2,0,0
+Chemistry,Stool,51930,粪便中的淀粉酶,"Amylase, Stool",0,0
+Chemistry,Stool,51931,β,Beta,0,0
+Chemistry,Stool,51932,粪便中的总胆红素,"Bilirubin, Total, Stool",0,0
+Chemistry,Stool,51933,C.diffPCR,C. diff PCR,7486,2804
+Chemistry,Stool,51934,CDiff毒素抗原检测,C Diff Toxin Antigen Assay,1432,437
+Chemistry,Stool,51935,粪便中的胆固醇,"Cholesterol, Stool",0,0
+Chemistry,Stool,51936,梭菌,Clostrid,0,0
+Chemistry,Stool,51937,粪便中的肌酐,"Creatinine, Stool",0,0
+Chemistry,Stool,51938,隐球菌,Cryptococ,0,0
+Chemistry,Stool,51939,Fl扫描,Fl Scan,0,0
+Chemistry,Stool,51940,Gamma免疫球蛋白重链,Gamma,0,0
+Chemistry,Stool,51941,粪便中的葡萄糖,"Glucose, Stool",0,0
+Chemistry,Stool,51942,粪便中的IgG,"IgG, Stool",0,0
+Chemistry,Stool,51943,粪便免疫电泳,"Immunoelectrophoresis, Stool",0,0
+Chemistry,Stool,51944,粪便中的乳酸脱氢酶,"Lactate Dehydrogenase, Stool",0,0
+Chemistry,Stool,51945,诺如病毒I群,Norovirus Genogroup I,1735,312
+Chemistry,Stool,51946,诺如病毒II群,Norovirus Genogroup II,1735,312
+Chemistry,Stool,51947,O,O & P,0,0
+Chemistry,Stool,51948,苏丹染色,Sudan Stain,0,0
+Chemistry,Stool,51949,粪便中的总蛋白,"Total Protein, Stool",0,0
+Chemistry,Stool,51950,粪便中的甘油三酯,"Triglycerides, Stool",0,0
+Chemistry,Stool,51951,粪便中的尿素氮,"Urea Nitrogen, Stool",0,0
+Chemistry,Stool,51952,粪便中的尿酸,"Uric Acid, Stool",0,0
+Chemistry,Stool,51953,排空标本,Voided Specimen,946,374
+Chemistry,Stool,51955,,,0,0
+Chemistry,Stool,51956,CDT027,CDT027,7294,2737
+Chemistry,Urine,51957,17-羟皮质醇,17-Hydroxycorticosteroids,0,0
+Chemistry,Urine,51958,17-酮甾体，尿液,"17-Ketosteroids, Urine",0,0
+Chemistry,Urine,51959,5-羟吲哚乙酸，尿液,"5-HIAA, Urine",0,0
+Chemistry,Urine,51960,醛糖酶,Aldolase,0,0
+Chemistry,Urine,51961,Alpha-1,Alpha-1,0,0
+Chemistry,Urine,51962,Alpha-2,Alpha-2,0,0
+Chemistry,Urine,51963,淀粉酶/肌酐清除率,Amylase/Creatinine Clearance,0,0
+Chemistry,Urine,51964,血清淀粉酶,"Amylase, Serum",0,0
+Chemistry,Urine,51965,β,Beta,0,0
+Chemistry,Urine,51966,胆红素,Bilirubin,1177,0
+Chemistry,Urine,51967,血液,Blood,1177,0
+Chemistry,Urine,51968,钙调蛋白,Camp,0,0
+Chemistry,Urine,51969,尿液中的儿茶酚胺,"Catecholamines, Urine",0,0
+Chemistry,Urine,51970,苯甲酸苯乙酯,Cben,0,0
+Chemistry,Urine,51971,,Ccoc,0,0
+Chemistry,Urine,51972,沙眼衣原体,Chlamydia trachomatis,8865,153
+Chemistry,Urine,51973,,Copi,0,0
+Chemistry,Urine,51974,尿液中的铜,"Copper, Urine",0,0
+Chemistry,Urine,51975,尿液中的酒紅醇紫质,Coproporphyrins,0,0
+Chemistry,Urine,51976,尿液中的皮质醇,"Cortisol, Urine",0,0
+Chemistry,Urine,51977,血液中的肌酐,"Creatinine, Blood",0,0
+Chemistry,Urine,51978,,DirList,0,0
+Chemistry,Urine,51979,尿液中的雌三醇,"Estriol, Urine",0,0
+Chemistry,Urine,51980,芬太尼,Fentanyl,10633,430
+Chemistry,Urine,51981,葡萄糖,Glucose,1177,0
+Chemistry,Urine,51982,尿液免疫电泳,"Immunoelectrophoresis, Urine",0,0
+Chemistry,Urine,51983,尿液中的铁,"Iron, Urine",0,0
+Chemistry,Urine,51984,酮体,Ketone,1177,0
+Chemistry,Urine,51985,白细胞,Leukocytes,1177,0
+Chemistry,Urine,51986,淋病奈瑟菌,Neisseria gonorrhoeae,8861,154
+Chemistry,Urine,51987,亚硝酸盐,Nitrite,1177,0
+Chemistry,Urine,51988,O,O & P,0,0
+Chemistry,Urine,51989,奥施康定,Oxycodone,31854,2642
+Chemistry,Urine,51990,尿液中的苯噻嗪筛查,"Phenothiazine Screen, Urine",0,0
+Chemistry,Urine,51991,先锋三，尿液,"Propoxyphene, Urine",0,0
+Chemistry,Urine,51992,蛋白质,Protein,1177,0
+Chemistry,Urine,51993,推荐,Referred,0,0
+Chemistry,Urine,51994,比重,Specific Gravity,1177,0
+Chemistry,Urine,51995,研究尿液,Study Urine,0,0
+Chemistry,Urine,51996,阴道滴虫,Trichomonas vaginalis,1590,10
+Chemistry,Urine,51997,UIFE凝胶,UIFEgel,0,0
+Chemistry,Urine,51998,UPEP凝胶,UPEPgel,0,0
+Chemistry,Urine,51999,尿液淀粉酶,Urine Amylase,0,0
+Chemistry,Urine,52000,尿液肌酐,Urine  Creatinine,0,0
+Chemistry,Urine,52001,尿液PEP，伽马区,"Urine PEP, Gamma region",0,0
+Chemistry,Urine,52002,尿胆元,Urobilinogen,1177,0
+Chemistry,Urine,52003,尿卟啉,Uroporphyrins,0,0
+Chemistry,Urine,52004,UTX1,UTX1,28765,2486
+Chemistry,Urine,52005,UTX2,UTX2,28699,2486
+Chemistry,Urine,52006,UTX3,UTX3,28646,2461
+Chemistry,Urine,52007,UTX4,UTX4,28844,2506
+Chemistry,Urine,52008,UTX5,UTX5,28781,2503
+Chemistry,Urine,52009,UTX6,UTX6,27874,2361
+Chemistry,Urine,52010,UTX7,UTX7,28684,2475
+Chemistry,Urine,52011,UTX8,UTX8,0,0
+Chemistry,Urine,52012,UTX9,UTX9,1873,14
+Chemistry,Urine,52013,香草醛酸,Vanillylmandelic Acid,0,0
+Chemistry,Urine,52014,排空标本,Voided Specimen,3172,529
+Chemistry,Urine,52015,木糖,Xylose,0,0
+Chemistry,Urine,52016,Z,Z,0,0
+Chemistry,Urine,52017,尿液中的锌,"Zinc, Urine",0,0
+Chemistry,Urine,52018,PAN1,PAN1,8866,154
+Chemistry,Urine,52019,PAN2,PAN2,1590,10
+Chemistry,Urine,52020,UTX10,UTX10,10631,430
+Blood Gas,Blood,52021,阿本唑,Abz,0,0
+Blood Gas,Blood,52022,血液中的白蛋白,"Albumin, Blood",0,0
+Blood Gas,Blood,52023,协助/控制,Assist/Control,9229,7286
+Blood Gas,Blood,52024,全血肌酐,"Creatinine, Whole Blood",11108,2428
+Blood Gas,Blood,52025,删除,Delete,0,0
+Blood Gas,Blood,52026,预测的肾小球滤过率（MDRD方程）,Estimated GFR (MDRD equation),9301,1810
+Blood Gas,Blood,52027,全血中的葡萄糖,"Glucose, Whole Blood",0,0
+Blood Gas,Blood,52028,红细胞比容,Hematocrit,0,0
+Blood Gas,Blood,52029,离子化钙%,% Ionized Calcium,0,0
+Blood Gas,Blood,52030,锂,Lithium,0,0
+Blood Gas,Blood,52031,渗透压,Osmolality,0,0
+Blood Gas,Blood,52032,血红蛋白的P50,P50 of Hemoglobin,1,0
+Blood Gas,Blood,52033,标本类型,Specimen Type,86104,47746
+Blood Gas,Blood,52034,总钙,Total Calcium,0,0
+Blood Gas,Blood,52035,总钙,Total Calcium,0,0
+Blood Gas,Blood,52036,排空标本,Voided Specimen,6546,3653
+Blood Gas,Blood,52037,全血tCO2,WB tCO2,0,0
+Blood Gas,Fluid,52038,酸碱平衡基础过剩,Base Excess,0,0
+Blood Gas,Fluid,52039,计算的碳酸氢盐,Calculated Bicarbonate,0,0
+Blood Gas,Fluid,52040,二氧化碳分压,pCO2,0,0
+Blood Gas,Fluid,52041,pH值,pH,0,0
+Blood Gas,Fluid,52042,氧分压,pO2,0,0
+Blood Gas,Other Body Fluid,52043,排空标本,Voided Specimen,70,25
+Blood Gas,Urine,52044,尿液渗透压,"Osmolality, Urine",0,0
+Blood Gas,Urine,52045,尿液pH,"pH, Urine",0,0
+Blood Gas,Urine,52046,尿钾,"Potassium, Urine",0,0
+Blood Gas,Urine,52047,尿钠,"Sodium, Urine",0,0
+Hematology,Ascites,52048,异形#,Atyps#,0,0
+Hematology,Ascites,52049,带形胶原纤维#,Bands#,0,0
+Hematology,Ascites,52050,嗜碱性粒细胞#,Basos#,0,0
+Hematology,Ascites,52051,母细胞#,Blasts#,0,0
+Hematology,Ascites,52052,嗜酸细胞#,Eos#,0,0
+Hematology,Ascites,52053,组织细胞#,Histio#,0,0
+Hematology,Ascites,52054,组织细胞,Histiocyte,0,0
+Hematology,Ascites,52055,异型分裂细胞,Hyperseg,1,0
+Hematology,Ascites,52056,异型分裂细胞#,Hyperseg#,0,0
+Hematology,Ascites,52057,淋巴细胞#,Lymphs#,0,0
+Hematology,Ascites,52058,转移细胞#,Metas#,0,0
+Hematology,Ascites,52059,单核细胞#,Monos#,0,0
+Hematology,Ascites,52060,骨髓细胞#,Myelos#,0,0
+Hematology,Ascites,52061,有核红细胞#,Nuc Rbcs#,0,0
+Hematology,Ascites,52062,血浆#,Plasma#,0,0
+Hematology,Ascites,52063,多形性核粒细胞#,Polys#,0,0
+Hematology,Ascites,52064,原始髓细胞#,Promyelo#,0,0
+Hematology,Ascites,52065,腹水中的总核细胞,"Total Nucleated Cells, Ascites",4779,2032
+Hematology,Ascites,52066,排空标本,Voided Specimen,2,0
+Hematology,Ascites,52067,年轻#,Young#,0,0
+Hematology,Blood,52068,24小时,24 Hr,0,0
+Hematology,Blood,52069,绝对嗜碱性粒细胞计数,Absolute Basophil Count,163092,24451
+Hematology,Blood,52070,CD19细胞的绝对计数,Absolute CD19 Count,0,0
+Hematology,Blood,52071,CD20细胞的绝对计数,Absolute CD20 Count,0,0
+Hematology,Blood,52072,绝对CD56计数,Absolute CD56 Count,0,0
+Hematology,Blood,52073,绝对嗜酸性粒细胞计数,Absolute Eosinophil Count,163097,24452
+Hematology,Blood,52074,绝对单核细胞计数,Absolute Monocyte Count,163092,24451
+Hematology,Blood,52075,绝对中性粒细胞计数,Absolute Neutrophil Count,163181,24451
+Hematology,Blood,52076,酸性磷酸酶染色,Acid Phosphatase Stain,0,0
+Hematology,Blood,52077,酸性血清,Acidserum,0,0
+Hematology,Blood,52078,抗凝血酶III,Antithrombin III,0,0
+Hematology,Blood,52079,阿司匹林耐受,ASA Tol,0,0
+Hematology,Blood,52080,,Asd,0,0
+Hematology,Blood,52081,ASD,ASD & NA-F,0,0
+Hematology,Blood,52082,阿司匹林反应性,Aspirin Reactivity,0,0
+Hematology,Blood,52083,自身溶血,Autohem+g,0,0
+Hematology,Blood,52084,自身溶血-g,Autohem-g,0,0
+Hematology,Blood,52085,出血Tm,Bleed Tm,0,0
+Hematology,Blood,52086,出血Tm,Bleed Tm,0,0
+Hematology,Blood,52087,CD15/56,CD15/56,439,44
+Hematology,Blood,52088,CD1a细胞表面标志,CD 1a,3,0
+Hematology,Blood,52089,CD30,CD30,0,0
+Hematology,Blood,52090,CD42,CD42,0,0
+Hematology,Blood,52091,CD52,CD52,0,0
+Hematology,Blood,52092,CD56%,CD56 %,6,0
+Hematology,Blood,52093,CD56绝对计数,CD56 Absolute Count,6,0
+Hematology,Blood,52094,CD61,CD61,0,0
+Hematology,Blood,52095,CD62,CD62,0,0
+Hematology,Blood,52096,氯乙酸,Chloroacetate,0,0
+Hematology,Blood,52097,环行抗体,Circ Ab,0,0
+Hematology,Blood,52098,凝块溶解,Clot Lysis,0,0
+Hematology,Blood,52099,凝块回缩,Clot Retraction,0,0
+Hematology,Blood,52100,凝块时间,Clot Time,0,0
+Hematology,Blood,52101,肌酐,Cr,0,0
+Hematology,Blood,52102,井菜状细胞,Crenated Cells,0,0
+Hematology,Blood,52103,交叉免疫,Cross Imm,0,0
+Hematology,Blood,52104,冷球蛋白,Cryoglob,0,0
+Hematology,Blood,52105,直接抗血小板抗体,Direct Antiplatelet Antibodies,0,0
+Hematology,Blood,52106,Donath-L测试,Donath-l,0,0
+Hematology,Blood,52107,凝血酶时间复合检测,dRVVT - Confirmation,479,140
+Hematology,Blood,52108,dRVVT-标准化比值,dRVVT - Normalized Ratio,479,140
+Hematology,Blood,52109,dRVVT-筛查,dRVVT - Screen,1410,349
+Hematology,Blood,52110,,DSmear,0,0
+Hematology,Blood,52111,棘球细胞,Echinocytes,18970,7158
+Hematology,Blood,52112,烟酸酯裂解,Euglobulin Lysis,0,0
+Hematology,Blood,52113,因子IX抑制物,Factor IX Inhibitor,3,1
+Hematology,Blood,52114,因子VIII抗原,Factor VIII Antigen,0,0
+Hematology,Blood,52115,纤维蛋白元,Fibrinoge,0,0
+Hematology,Blood,52116,纤维蛋白ogen,Fibrinogen,0,0
+Hematology,Blood,52117,免疫学的纤维蛋白ogen,"Fibrinogen, Immunologic",0,0
+Hematology,Blood,52119,Fitzgerld试验,Fitzgerld,0,0
+Hematology,Blood,52120,Fitzgerld试验,Fitzgerld,0,0
+Hematology,Blood,52121,Fletcher试验,Fletcher,0,0
+Hematology,Blood,52122,,Fsp,0,0
+Hematology,Blood,52123,G6PD，定性,"G6PD, Qualitative",2234,504
+Hematology,Blood,52124,G6PD规范化实施规定,G6pd Spec,0,0
+Hematology,Blood,52125,谷胱甘肽,Glutathione,0,0
+Hematology,Blood,52126,Heinz氏围甲肥大,Heinz Aph,0,0
+Hematology,Blood,52127,防盔细胞,Helmet Cells,0,0
+Hematology,Blood,52128,血红蛋白H包含,Hemoglobin H Inclusion,0,0
+Hematology,Blood,52129,其它血红蛋白,Hemoglobin Other,45,4
+Hematology,Blood,52130,组织细胞,Histiocytes,0,0
+Hematology,Blood,52131,HIT-抗体解读结果,HIT-Ab Interpreted Result,1109,827
+Hematology,Blood,52132,HIT-抗体数值结果,HIT-Ab Numerical Result,1109,827
+Hematology,Blood,52133,高分子量激酶,Hmwk,0,0
+Hematology,Blood,52134,IG,IG,0,0
+Hematology,Blood,52135,不成熟的颗粒细胞,Immature Granulocytes,158789,21504
+Hematology,Blood,52136,抑制物,Inhibitor,0,0
+Hematology,Blood,52137,抑制物筛查,Inh Scr,0,0
+Hematology,Blood,52138,Kct规范化实验,Kct,0,0
+Hematology,Blood,52139,鲁氏试验,LE Prep,0,0
+Hematology,Blood,52140,LS,LS,0,0
+Hematology,Blood,52141,疟疾涂片,Malaria Smear,0,0
+Hematology,Blood,52142,平均血小板体积,Mean Platelet Volume,0,0
+Hematology,Blood,52143,Methemalb规范化实验,Methemalb,0,0
+Hematology,Blood,52144,血红素蛋白,Methemoglobin,0,0
+Hematology,Blood,52145,单核细胞斑点试验,Mono Spot Test,0,0
+Hematology,Blood,52146,醋酸萘染色,Naphtol Acetate Stain,0,0
+Hematology,Blood,52147,NEUTX,NEUTX,0,0
+Hematology,Blood,52148,NEUTY,NEUTY,0,0
+Hematology,Blood,52149,NFletcher规范化实验,NFletcher,0,0
+Hematology,Blood,52150,非特异性酯酶,Non-Specific Esterase,0,0
+Hematology,Blood,52151,NRBC,NRBC,0,0
+Hematology,Blood,52152,孵化的渗透性脆性,"Osmotic Fragility, Incubated",0,0
+Hematology,Blood,52153,其他抑制物,Other Inhibitor,0,0
+Hematology,Blood,52154,P2Y12反应单元,P2Y12 Reaction Units,0,0
+Hematology,Blood,52155,伯氏周期酸薛夫染色,Periodic Acid Schiff Stain,0,0
+Hematology,Blood,52156,过氧化物酶染色,Peroxidase Staining,0,0
+Hematology,Blood,52157,血浆血红蛋白,Plasma Hemoglobin,0,0
+Hematology,Blood,52158,纤溶酶原,Plasminogen,0,0
+Hematology,Blood,52159,血小板聚集,Platelet Aggregation,0,0
+Hematology,Blood,52160,前鞭毛蛋白,Prekallekrein,0,0
+Hematology,Blood,52161,问题样本,Problem Specimen,0,0
+Hematology,Blood,52162,蛋白S,Protein S,0,0
+Hematology,Blood,52163,PT对照,PT Control,0,0
+Hematology,Blood,52164,PT平均值,PT Mean,0,0
+Hematology,Blood,52165,PTT对照,PTT Control,0,0
+Hematology,Blood,52166,PTT-LA,PTT-LA,0,0
+Hematology,Blood,52167,PTT平均值,PTT mea,0,0
+Hematology,Blood,52168,丙酮酸激酶,Pyruvate Kinase,0,0
+Hematology,Blood,52169,,QFib,0,0
+Hematology,Blood,52170,红血细胞, Rbc,0,0
+Hematology,Blood,52171,红细胞形态学,RBC Morphology,13835,4159
+Hematology,Blood,52172,RDW-SD,RDW-SD,176440,36394
+Hematology,Blood,52173,红细胞酶,Red Blood Cell Enzyme,0,0
+Hematology,Blood,52174,爬蟲酶时间，对照,"Reptilase Time, Control",0,0
+Hematology,Blood,52175,黎司汀反应,Ristocetin Response,0,0
+Hematology,Blood,52176,红细胞轧制珠串现象,Rouleaux,215,49
+Hematology,Blood,52177,SCT-确认,SCT - Confirmation,100,16
+Hematology,Blood,52178,SCT-标准化比值,SCT - Normalized Ratio,100,16
+Hematology,Blood,52179,SCT-筛查,SCT - Screen,1114,240
+Hematology,Blood,52180,STA-CLOT,STA-CLOT,0,0
+Hematology,Blood,52181,圆口病细胞,Stomatocyte,522,140
+Hematology,Blood,52182,黑色苏丹染色法,Sudan Black Staining,0,0
+Hematology,Blood,52183,硫酸血红蛋白,Sulf Hgb,0,0
+Hematology,Blood,52184,TCRAlpha-Beta,TCR Alpha-Beta,6,0
+Hematology,Blood,52185,TCR伽马-德尔塔,TCR Gamma-Delta,6,0
+Hematology,Blood,52186,测试,Test,0,0
+Hematology,Blood,52187,凝血酶时间,Thrombin Time,0,0
+Hematology,Blood,52188,凝血酶时间对照,Thrombin Time Control,0,0
+Hematology,Blood,52189,凝血酶时间对照,Thrombin Time Control,0,0
+Hematology,Blood,52190,组织凝血酶inhibitor,Tissue Thromboplastin Inhibitor,0,0
+Hematology,Blood,52191,Tr-酸,Tr- Acid,0,0
+Hematology,Blood,52192,陷阱染色,Trap Stain,0,0
+Hematology,Blood,52193,Viii抗原,Viii Ag,0,0
+Hematology,Blood,52194,VIII-CIE,VIII-CIE,0,0
+Hematology,Blood,52195,排空标本,Voided Specimen,2697,1001
+Hematology,Blood,52196,WAM手动差分,WAM Manual Diff,0,0
+Hematology,Blood,52197,WAM手动差分2,WAM MANUAL DIFF 2,0,0
+Hematology,Blood,52198,红细胞标记伪影,ErytFlg,0,0
+Hematology,Blood,52199,片段标志,FragFlg,0,0
+Hematology,Blood,52200,血小板分布,PltDist,0,0
+Hematology,Blood,52201,血小板分布,PltScat,0,0
+Hematology,Blood,52202,血小板聚集体,PltClmp,0,0
+Hematology,Blood,52203,红细胞聚集,RBCAgg,0,0
+Hematology,Blood,52204,红细胞分布,RBCDist,0,0
+Hematology,Blood,52205,返回离子散射,RetScat,0,0
+Hematology,Blood,52206,返回离子散射伪影,RetFlg,0,0
+Hematology,Blood,52207,湍流血红蛋白积分,TurbHbI,0,0
+Hematology,Blood,52208,嗜碱性粒细胞标志物,BasoFlg,0,0
+Hematology,Blood,52209,嗜酸性粒细胞标志,EosFlg,0,0
+Hematology,Blood,52210,左移现象,LeftShf,0,0
+Hematology,Blood,52211,淋巴细胞报警标志,LymFlg,0,0
+Hematology,Blood,52212,单核细胞标志物,MonoFlg,0,0
+Hematology,Blood,52213,早幼红细胞伪影,NRBCFlg,0,0
+Hematology,Blood,52214,淋巴细胞抽提物,AbnLymp,0,0
+Hematology,Blood,52215,ATL标志,ATLFlg,0,0
+Hematology,Blood,52216,初级细胞标志,BlasFlg,0,0
+Hematology,Blood,52217,血清/抗体淋巴细胞,Bl/AbLy,0,0
+Hematology,Blood,52218,IG标志,IG Flg,0,0
+Hematology,Blood,52219,白细胞分散,WBCScat,0,0
+Hematology,Blood,52220,全血细胞计数,wbcp,3917,20
+Hematology,Cerebrospinal Fluid,52221,异型淋巴细胞,Atypical Lymphocytes,706,186
+Hematology,Cerebrospinal Fluid,52222,异形#,Atyps#,0,0
+Hematology,Cerebrospinal Fluid,52223,带状细胞,Bands,494,173
+Hematology,Cerebrospinal Fluid,52224,带形胶原纤维#,Bands#,0,0
+Hematology,Cerebrospinal Fluid,52225,嗜碱细胞,Basophils,377,127
+Hematology,Cerebrospinal Fluid,52226,嗜碱性粒细胞#,Basos#,0,0
+Hematology,Cerebrospinal Fluid,52227,原始细胞,Blasts,37,11
+Hematology,Cerebrospinal Fluid,52228,母细胞#,Blasts#,0,0
+Hematology,Cerebrospinal Fluid,52229,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52230,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52231,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52232,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52233,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52234,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52235,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52236,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52237,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52238,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52239,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52240,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52241,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52242,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52243,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52244,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52245,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52246,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52247,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52248,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52249,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52250,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52251,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52252,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52253,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52254,删除,Delete,0,0
+Hematology,Cerebrospinal Fluid,52255,嗜酸细胞#,Eos#,0,0
+Hematology,Cerebrospinal Fluid,52256,嗜酸性粒细胞,Eosinophils,1285,413
+Hematology,Cerebrospinal Fluid,52257,脑脊液血细胞比容,"Hematocrit, CSF",90,65
+Hematology,Cerebrospinal Fluid,52258,组织细胞,Histiocyte,0,0
+Hematology,Cerebrospinal Fluid,52260,高度分裂的中性粒细胞,Hypersegmented Neutrophils,0,0
+Hematology,Cerebrospinal Fluid,52261,超分节中性粒细胞#,Hypersegmented Neutrophils #,0,0
+Hematology,Cerebrospinal Fluid,52262,免疫表型鉴定,Immunophenotyping,617,156
+Hematology,Cerebrospinal Fluid,52263,衬里细胞,Lining Cell,147,41
+Hematology,Cerebrospinal Fluid,52264,淋巴细胞,Lymphs,10790,2408
+Hematology,Cerebrospinal Fluid,52265,淋巴细胞#,Lymphs#,0,0
+Hematology,Cerebrospinal Fluid,52266,巨噬细胞,Macrophage,2723,852
+Hematology,Cerebrospinal Fluid,52267,巨噬细胞#,Macrophage#,0,0
+Hematology,Cerebrospinal Fluid,52268,间皮细胞,Mesothelial cells,67,16
+Hematology,Cerebrospinal Fluid,52269,间皮细胞#,Mesothelial cells #,0,0
+Hematology,Cerebrospinal Fluid,52270,髓粒细胞,Metamyelocytes,136,59
+Hematology,Cerebrospinal Fluid,52271,转移细胞#,Metas#,0,0
+Hematology,Cerebrospinal Fluid,52272,单核细胞,Monocytes,10790,2408
+Hematology,Cerebrospinal Fluid,52273,单核细胞#,Monos#,0,0
+Hematology,Cerebrospinal Fluid,52274,髓母细胞,Myelocytes,73,27
+Hematology,Cerebrospinal Fluid,52276,NRBC,NRBC,199,87
+Hematology,Cerebrospinal Fluid,52277,早幼红细胞#,NRBC#,0,0
+Hematology,Cerebrospinal Fluid,52278,其他,Other,1229,387
+Hematology,Cerebrospinal Fluid,52279,血浆,Plasma,215,74
+Hematology,Cerebrospinal Fluid,52280,血浆#,Plasma#,0,0
+Hematology,Cerebrospinal Fluid,52281,多形核细胞,Polys,10790,2408
+Hematology,Cerebrospinal Fluid,52282,多形性核粒细胞#,Polys#,0,0
+Hematology,Cerebrospinal Fluid,52283,早幼粒细胞,Promyelocytes,52,17
+Hematology,Cerebrospinal Fluid,52284,早幼粒细胞#,Promyelocytes#,0,0
+Hematology,Cerebrospinal Fluid,52285,脑脊液中的红细胞,"RBC, CSF",10766,2385
+Hematology,Cerebrospinal Fluid,52286,脑脊液中的总核细胞,"Total Nucleated Cells, CSF",10790,2407
+Hematology,Cerebrospinal Fluid,52287,排空标本,Voided Specimen,2,2
+Hematology,Cerebrospinal Fluid,52288,幼年,Young,4,1
+Hematology,Cerebrospinal Fluid,52289,年轻#,Young#,0,0
+Hematology,I,52290,脱氧核糖核酸,Dna,0,0
+Hematology,Joint Fluid,52291,异形#,Atyps#,0,0
+Hematology,Joint Fluid,52292,带形胶原纤维#,Bands#,0,0
+Hematology,Joint Fluid,52293,嗜碱性粒细胞#,Basos#,0,0
+Hematology,Joint Fluid,52294,原始细胞,Blasts,2,0
+Hematology,Joint Fluid,52295,母细胞#,Blasts#,0,0
+Hematology,Joint Fluid,52296,嗜酸细胞#,Eos#,0,0
+Hematology,Joint Fluid,52297,组织细胞#,Histio#,0,0
+Hematology,Joint Fluid,52298,组织细胞,Histiocyte,0,0
+Hematology,Joint Fluid,52299,高度分裂的中性粒细胞,Hypersegmented Neutrophils,0,0
+Hematology,Joint Fluid,52300,超分节中性粒细胞#,Hypersegmented Neutrophils #,0,0
+Hematology,Joint Fluid,52301,衬里细胞,Lining Cell,344,27
+Hematology,Joint Fluid,52302,淋巴细胞#,Lymphs#,0,0
+Hematology,Joint Fluid,52303,转移细胞#,Metas#,0,0
+Hematology,Joint Fluid,52304,单核细胞#,Monos#,0,0
+Hematology,Joint Fluid,52305,髓母细胞,Myelocytes,12,0
+Hematology,Joint Fluid,52306,骨髓细胞#,Myelos#,0,0
+Hematology,Joint Fluid,52307,血浆,Plasma,42,2
+Hematology,Joint Fluid,52308,血浆#,Plasma#,0,0
+Hematology,Joint Fluid,52309,多形性核粒细胞#,Polys#,0,0
+Hematology,Joint Fluid,52310,原始髓细胞#,Promyelo#,0,0
+Hematology,Joint Fluid,52311,早幼粒细胞,Promyelocytes,11,0
+Hematology,Joint Fluid,52312,关节总核细胞,"Total Nucleated Cells, Joint",5113,496
+Hematology,Joint Fluid,52313,排空标本,Voided Specimen,3,1
+Hematology,Joint Fluid,52314,幼年,Young,0,0
+Hematology,Joint Fluid,52315,年轻#,Young#,0,0
+Hematology,Bone Marrow,52316,酸性磷酸酶染色,Acid Phosphatase Stain,0,0
+Hematology,Bone Marrow,52317,,Asd,0,0
+Hematology,Bone Marrow,52318,,Asd&na-f,0,0
+Hematology,Bone Marrow,52319,CD1a细胞表面标志,CD 1a,2,1
+Hematology,Bone Marrow,52320,CD30,CD30,0,0
+Hematology,Bone Marrow,52321,CD42,CD42,0,0
+Hematology,Bone Marrow,52322,CD52,CD52,0,0
+Hematology,Bone Marrow,52323,CD61,CD61,0,0
+Hematology,Bone Marrow,52324,CD62,CD62,0,0
+Hematology,Bone Marrow,52325,氯醋酸酯酶,Chloroacetate Esterase,0,0
+Hematology,Bone Marrow,52326,醋酸萘染色,Naphthol Acetate Stain,0,0
+Hematology,Bone Marrow,52327,萘丁酸酯,Naphthol Butryrate,0,0
+Hematology,Bone Marrow,52328,经期舒式染色,Periodic Schiff Stain,0,0
+Hematology,Bone Marrow,52329,过氧化物酶染色,Peroxidase Stain,0,0
+Hematology,Bone Marrow,52330,SudanBlack染色,Sudan Black Stain,0,0
+Hematology,Bone Marrow,52331,TCRAlpha-Beta,TCR Alpha-Beta,4,0
+Hematology,Bone Marrow,52332,TCR伽马-德尔塔,TCR Gamma-Delta,4,0
+Hematology,Bone Marrow,52333,Tr-酸,Tr-acid,0,0
+Hematology,Bone Marrow,52334,排空标本,Voided Specimen,0,0
+Hematology,Bone Marrow,52335,终末脱氧核糖核酸转移酶,TdT,48,6
+Hematology,Other Body Fluid,52336,异形#,Atyps#,0,0
+Hematology,Other Body Fluid,52337,带形胶原纤维#,Bands#,0,0
+Hematology,Other Body Fluid,52338,嗜碱性粒细胞#,Basos#,0,0
+Hematology,Other Body Fluid,52339,原始细胞,Blasts,8,6
+Hematology,Other Body Fluid,52340,母细胞#,Blasts#,0,0
+Hematology,Other Body Fluid,52341,CD1a细胞表面标志,CD 1a,2,0
+Hematology,Other Body Fluid,52342,CD30,CD30,0,0
+Hematology,Other Body Fluid,52343,CD42,CD42,0,0
+Hematology,Other Body Fluid,52344,CD52,CD52,0,0
+Hematology,Other Body Fluid,52345,CD55,CD55,0,0
+Hematology,Other Body Fluid,52346,CD59,CD59,0,0
+Hematology,Other Body Fluid,52347,CD61,CD61,0,0
+Hematology,Other Body Fluid,52348,CD62,CD62,0,0
+Hematology,Other Body Fluid,52349,氯醋酸,Chloroac,0,0
+Hematology,Other Body Fluid,52350,嗜酸细胞#,Eos#,0,0
+Hematology,Other Body Fluid,52351,胎儿血红蛋白,Fetal Hgb,0,0
+Hematology,Other Body Fluid,52352,胎肺成熟度-LBC,FETAL LUNG MATURITY - LBC,0,0
+Hematology,Other Body Fluid,52353,组织细胞#,Histiocyte#,0,0
+Hematology,Other Body Fluid,52354,组织细胞,Histiocytes,0,0
+Hematology,Other Body Fluid,52355,高度分裂的中性粒细胞,Hypersegmented Neutrophils,2,0
+Hematology,Other Body Fluid,52356,超分节中性粒细胞#,Hypersegmented Neutrophils#,0,0
+Hematology,Other Body Fluid,52357,铁,Iron,0,0
+Hematology,Other Body Fluid,52358,衬里细胞,Lining Cell,493,291
+Hematology,Other Body Fluid,52359,淋巴细胞#,Lymphs#,0,0
+Hematology,Other Body Fluid,52360,中幼粒细胞#,Metamyelocytes#,0,0
+Hematology,Other Body Fluid,52361,单核细胞#,Monos#,0,0
+Hematology,Other Body Fluid,52362,骨髓细胞#,Myelos#,0,0
+Hematology,Other Body Fluid,52363,早幼红细胞#,NRBC#,0,0
+Hematology,Other Body Fluid,52364,血浆#,Plasma#,0,0
+Hematology,Other Body Fluid,52365,多形性核粒细胞#,Polys#,0,0
+Hematology,Other Body Fluid,52366,原髓细胞#,Promyelocyte#,0,0
+Hematology,Other Body Fluid,52367,TCRAlpha-Beta,TCR Alpha-Beta,0,0
+Hematology,Other Body Fluid,52368,TCR伽马-德尔塔,TCR Gamma-Delta,0,0
+Hematology,Other Body Fluid,52369,总核细胞,"Total Nucleated Cells, Other",1828,943
+Hematology,Other Body Fluid,52370,排空标本,Voided Specimen,7,6
+Hematology,Other Body Fluid,52371,幼年,Young,1,0
+Hematology,Other Body Fluid,52372,年轻#,Young#,0,0
+Hematology,Other Body Fluid,52373,终末脱氧核糖核酸转移酶,TdT,12,5
+Hematology,Other Body Fluid,52374,,,0,0
+Hematology,Pleural,52375,异形#,Atyps#,0,0
+Hematology,Pleural,52376,带形胶原纤维#,Bands#,0,0
+Hematology,Pleural,52377,嗜碱性粒细胞#,Basos#,0,0
+Hematology,Pleural,52378,母细胞#,Blasts#,0,0
+Hematology,Pleural,52379,嗜酸细胞#,Eos#,0,0
+Hematology,Pleural,52380,组织细胞#,Histiocyte#,0,0
+Hematology,Pleural,52381,组织细胞,Histiocytes,0,0
+Hematology,Pleural,52382,超分叶中性粒细胞#,Hypersegmented  Neutrophils#,0,0
+Hematology,Pleural,52383,高度分裂的中性粒细胞,Hypersegmented Neutrophils,0,0
+Hematology,Pleural,52384,淋巴细胞#,Lymphs#,0,0
+Hematology,Pleural,52385,转移细胞#,Metas#,0,0
+Hematology,Pleural,52386,单核细胞#,Monos#,0,0
+Hematology,Pleural,52387,骨髓细胞#,Myelos#,0,0
+Hematology,Pleural,52388,血浆#,Plasma#,0,0
+Hematology,Pleural,52389,多形性核粒细胞#,Polys#,0,0
+Hematology,Pleural,52390,早幼粒细胞#,Promyelocytes#,0,0
+Hematology,Pleural,52391,胸腔总核细胞,"Total Nucleated Cells, Pleural",5578,2408
+Hematology,Pleural,52392,排空标本,Voided Specimen,1,1
+Hematology,Pleural,52393,年轻#,Young#,0,0
+Hematology,Q,52394,FL1-D,FL1-D,0,0
+Hematology,Q,52395,FL1-%FL2,FL1-%FL2,0,0
+Hematology,Q,52396,FL1-S,FL1-S,0,0
+Hematology,Q,52397,FL2-D,FL2-D,0,0
+Hematology,Q,52398,FL2-%FL1,FL2-%FL1,0,0
+Hematology,Q,52399,FL2-S,FL2-S,0,0
+Hematology,Q,52400,FSC-S,FSC-S,0,0
+Hematology,Q,52401,SSC-D,SSC-D,0,0
+Hematology,Q,52402,SSC-S,SSC-S,0,0
+Hematology,Stool,52403,胆汁,Bile,0,0
+Hematology,Stool,52406,排空标本,Voided Specimen,3,0
+Hematology,Stool,52407,白细胞,WBC,0,0
+Hematology,Urine,52408,尿显微镜下细菌感染,Bacturia,0,0
+Hematology,Urine,52409,酵母菌芽孢子过多,Budding Yeast,0,0
+Hematology,Urine,52410,脂肪尿症,Fatty Casts,3,0
+Hematology,Urine,52411,血红蛋白,Hgb,0,0
+Hematology,Urine,52412,高倍视野,HPF,0,0
+Hematology,Urine,52413,白细胞,Leuks,0,0
+Hematology,Urine,52414,白细胞,LEUKS,0,0
+Hematology,Urine,52415,低倍视野,LPF,0,0
+Hematology,Urine,52416,肌红蛋白,Myoglobin,0,0
+Hematology,Urine,52417,苯丙氨酸尿症,Pku,0,0
+Hematology,Urine,52418,问题样本,Problem Specimen,0,0
+Hematology,Urine,52419,排空标本,Voided Specimen,785,109
+Hematology,Urine,52420,ZZDUMMY,ZZDUMMY,0,0
+Hematology,Urine,52421,GATE,GATE,0,0
+Hematology,Urine,52422,RUN,RUN,0,0
+Hematology,Urine,52423,SKIP,SKIP,0,0
+Hematology,Urine,52424,RFXUCU,RFXUCU,5367,2717
+Hematology,Urine,52425,XUCU,XUCU,13345,6300
+Hematology,Urine,52426,UCU1,UCU1,628,330
+Hematology,Urine,52427,UCU2,UCU2,1583,728
+Blood Gas,Blood,52434,全血氯浓度,"Chloride, Whole Blood",0,0
+Blood Gas,Blood,52442,乳酸,Lactate,0,0
+Blood Gas,Blood,52452,全血钾浓度,"Potassium, Whole Blood",0,0
+Blood Gas,Blood,52455,全血钠浓度,"Sodium, Whole Blood",0,0
+Chemistry,Blood,52500,阴离子间隙,Anion Gap,995,0
+Chemistry,Blood,52535,氯浓度,Chloride,997,0
+Chemistry,Blood,52546,肌酐,Creatinine,1024,0
+Chemistry,Blood,52548,冷球蛋白,Cryoglobulin,0,0
+Chemistry,Blood,52551,D-二聚体,D-Dimer,183,0
+Chemistry,Blood,52562,叶酸,Folate,0,0
+Chemistry,Blood,52569,葡萄糖,Glucose,1045,0
+Chemistry,Blood,52610,钾,Potassium,1045,0
+Chemistry,Blood,52623,钠,Sodium,1045,0
+Chemistry,Blood,52642,肌钙蛋白I,Troponin I,569,0
+Chemistry,Blood,52647,尿素氮,Urea Nitrogen,997,0
+Chemistry,Urine,52703,尿液白蛋白,"Albumin, Urine",0,0
+Chemistry,Urine,52720,尿HCG,"HCG, Urine, Qualitative",495,0
+Chemistry,Urine,52730,pH值,pH,1177,0
+Hematology,Blood,52769,绝对淋巴细胞计数,Absolute Lymphocyte Count,5058,530
+Hematology,Blood,52786,出血时间,Bleeding Time,0,0
+Hematology,Blood,52838,凝血酶原时间,Factor II,0,0
+Hematology,Blood,52840,凝血因子IX,Factor IX,0,0
+Hematology,Blood,52842,凝血因子V,Factor V,0,0
+Hematology,Blood,52844,凝血因子VII,Factor VII,0,0
+Hematology,Blood,52846,凝血因子VIII,Factor VIII,0,0
+Hematology,Blood,52849,因子X,Factor X,0,0
+Hematology,Blood,52851,因子XI,Factor XI,0,0
+Hematology,Blood,52853,因子XII,Factor XII,0,0
+Hematology,Blood,52855,因子XIII,Factor XIII,0,0
+Hematology,Blood,52858,纤维蛋白降解产物,Fibrin Degradation Products,0,0
+Hematology,Blood,52889,抗狼疮抗凝物,Lupus Anticoagulant,0,0
+Hematology,Blood,52921,PT,PT,0,0
+Hematology,Blood,52923,PTT,PTT,0,0
+Hematology,Blood,52929,蝮蛇酶时间,Reptilase Time,0,0
+Hematology,Blood,52934,网织红细胞计数，手动,"Reticulocyte Count, Manual",0,0
+Hematology,Blood,52948,凝血酶,Thrombin,0,0
+Hematology,Bone Marrow,52955,CD10,CD10,1110,133
+Hematology,Bone Marrow,52992,铁染色,Iron Stain,862,108
+Hematology,Joint Fluid,53012,NRBC,NRBC,0,0
+Hematology,Pleural,53083,NRBC,NRBC,0,0
+Chemistry,Blood,53084,丙氨酸氨基转移酶,Alanine Aminotransferase,69,0
+Chemistry,Blood,53085,白蛋白,Albumin,69,0
+Chemistry,Blood,53086,碱性磷酸酶,Alkaline Phosphatase,69,0
+Chemistry,Blood,53087,淀粉酶,Amylase,69,0
+Chemistry,Blood,53088,天冬氨酸氨基转移酶,Asparate Aminotransferase,69,0
+Chemistry,Blood,53089,总胆红素,"Bilirubin, Total",69,0
+Chemistry,Blood,53093,γ-谷氨酰转移酶,Gamma Glutamyltranferase,69,0
+Chemistry,Blood,53094,HBVVLCT,HBV VL CT,995,175
+Chemistry,Blood,53095,LymeVsIE/PepC10抗体,Lyme VsIE/PepC10 Antibody,1684,199
+Chemistry,Blood,53096,总蛋白,"Protein, Total",68,0
+Chemistry,Other Body Fluid,53097,COV10,COV10,2236,739
+Chemistry,Other Body Fluid,53098,COV11,COV11,2259,741
+Chemistry,Other Body Fluid,53099,COV12,COV12,3134,274
+Chemistry,Other Body Fluid,53100,COV13,COV13,3134,274
+Chemistry,Other Body Fluid,53105,E基因CT,E GENE CT,5560,1822
+Chemistry,Other Body Fluid,53106,E基因ENDPT,E GENE ENDPT,5560,1822
+Chemistry,Other Body Fluid,53107,FLUA1,FLUA1,3079,261
+Chemistry,Other Body Fluid,53108,FLUA2,FLUA2,3079,261
+Chemistry,Other Body Fluid,53109,FLUB1,FLUB1,3078,261
+Chemistry,Other Body Fluid,53110,FLUB2,FLUB2,3078,261
+Chemistry,Other Body Fluid,53111,N2基因CT,N2 GENE CT,5560,1822
+Chemistry,Other Body Fluid,53112,N2基因ENDPT,N2 GENE ENDPT,5560,1822
+Chemistry,Other Body Fluid,53113,快速呼吸道合胞病毒,Rapid Respiratory Syncytial Virus,4724,868
+Chemistry,Other Body Fluid,53114,RSV1,RSV1,3077,261
+Chemistry,Other Body Fluid,53115,RSV2,RSV2,3077,261
+Chemistry,Ascites,53116,(白蛋白),(Albumin),0,0
+Chemistry,Ascites,53117,Alpha-1,Alpha-1,0,0
+Chemistry,Ascites,53118,Alpha-2,Alpha-2,0,0
+Chemistry,Ascites,53119,β,Beta,0,0
+Chemistry,Ascites,53120,梭菌,Clostrid,0,0
+Chemistry,Ascites,53121,隐球菌,Cryptococ,0,0
+Chemistry,Ascites,53122,Fl扫描,Fl Scan,0,0
+Chemistry,Ascites,53123,腹水免疫电泳,"Immunoelectrophoresis, Ascites",0,0
+Chemistry,Ascites,53124,腹水免疫球蛋白G,"Immunoglobulin G, Ascites",0,0
+Chemistry,Ascites,53125,腹水PEP，Gamma区域,"PEP, Ascites, Gamma Region",0,0
+Chemistry,Ascites,53126,腹水尿酸,"Uric Acid, Ascites",0,0
+Chemistry,Ascites,53127,排空标本,Voided Specimen,90,26
+Chemistry,Blood,53128,11-去氧皮质酮,11-Deoxycorticosterone,0,0
+Chemistry,Blood,53129,,3t,0,0
+Chemistry,Blood,53130,,4t,0,0
+Chemistry,Blood,53131,5'核苷酸酶,5' Nucleotidase,0,0
+Chemistry,Blood,53135,前列腺酸性磷酸酶,"Acid Phosphatase, Prostatic Fraction",0,0
+Chemistry,Blood,53136,促肾上腺皮质激素,Adrenocorticotrophic Hormone,0,0
+Chemistry,Blood,53137,甲胎蛋白单位,Afp Mom,0,0
+Chemistry,Blood,53138,(白蛋白),(Albumin),0,0
+Chemistry,Blood,53139,醛固酮,Aldosterone,0,0
+Chemistry,Blood,53140,醛固酮,Aldosterone,0,0
+Chemistry,Blood,53141,Alpha-1,Alpha-1,0,0
+Chemistry,Blood,53142,Alpha-1-抗胰蛋白酶,Alpha-1-antitrypsin,0,0
+Chemistry,Blood,53143,Alpha-2,Alpha-2,0,0
+Chemistry,Blood,53144,ANCA滴度,ANCA Titer,38,5
+Chemistry,Blood,53145,抗-GBM抗体,Anti-GBM Antibody,0,0
+Chemistry,Blood,53146,抗Hav,Anti Hav,0,0
+Chemistry,Blood,53147,抗Hbc,Anti Hbc,0,0
+Chemistry,Blood,53148,抗Hbe,Anti Hbe,0,0
+Chemistry,Blood,53149,抗-hbs,Anti-hbs,0,0
+Chemistry,Blood,53150,抗Hbs,Anti Hbs,0,0
+Chemistry,Blood,53151,抗-la,Anti-la,0,0
+Chemistry,Blood,53152,HIVFINAL,HIV FINAL,34,6
+Chemistry,Blood,53153,HIV筛查,HIV Screen,46989,5242
+Chemistry,Blood,53154,乳酸,Lactate,96,0
+Chemistry,Blood,53157,绝对淋巴细胞计数,Absolute Lymphocyte Count,17,0
+Chemistry,Blood,53158,绝对MXD计数,Absolute MXD Count,17,0
+Chemistry,Blood,53159,绝对中性粒细胞计数,Absolute Neutrophil Count,17,0
+Chemistry,Blood,53160,,CMV CT,0,0
+Chemistry,Blood,53161,估计肾小球滤过率（CKD-EPI 更新版）,Estimated GFR (CKD- EPI Refit),26859,2397
+Chemistry,Blood,53162,HCVCT,HCV CT,0,0
+Chemistry,Blood,53163,HIV病毒载量Ct,HIV Viral Load Ct,185,11
+Chemistry,Blood,53164,中性粒细胞,Neutrophils,17,0
+Chemistry,Blood,53165,RDW-CV,RDW-CV,17,0
+Chemistry,Blood,53166,RDW-SD,RDW-SD,17,0
+Chemistry,Blood,53167,反射RPR,Reflex RPR,0,0
+Chemistry,Other Body Fluid,53168,,,0,0
+Chemistry,Other Body Fluid,53169,Ceph-IC,Ceph-IC,3283,876
+Chemistry,Other Body Fluid,53170,头孢菌素IC终点,CephIC Endpt,2288,524
+Chemistry,Other Body Fluid,53171,COV12IC,COV12IC,1945,135
+Chemistry,Other Body Fluid,53172,COV12MC,COV12MC,1945,135
+Chemistry,Other Body Fluid,53173,COV8IC,COV8IC,7454,917
+Chemistry,Other Body Fluid,53174,COV8MC,COV8MC,7462,922
+Chemistry,Other Body Fluid,53175,RdRP环介质阈值,RdRP Ct,956,203
+Chemistry,Other Body Fluid,53176,RdRP终点,RdRP Endpt,956,203
+Chemistry,Stool,53177,沙眼衣原体,Chlamydia trachomatis,30,1
+Chemistry,Stool,53178,幽门螺杆菌抗原,Helicobacter pylori Antigen,370,42
+Chemistry,Stool,53179,淋病奈瑟菌,Neisseria gonorrhoeae,30,1
+Blood Gas,Blood,53180,估计的肾小球滤过率(CKD-EPI2021),Estimated GFR (CKD- EPI 2021),1963,367
+Hematology,Blood,53181,仅CBC,CBC Only,1,0
+Hematology,Blood,53182,%寄生虫病,% Parasitemia,0,0
+Hematology,Cerebrospinal Fluid,53183,细胞旋转复核,Cytospin Review,6,0
+Hematology,Cerebrospinal Fluid,53184,IPT(临床试验),IPT (Clinical Trial),0,0
+Chemistry,Blood,53185,MCHC,MCHC,17,0
+Chemistry,Blood,53186,MCH,MCH,17,0
+Chemistry,Stool,53187,PAN,PAN,313,88
+Chemistry,Blood,53188,淋巴细胞,Lymphocytes,17,0
+Chemistry,Blood,53189,血小板计数,Platelet Count,17,0
+Chemistry,Blood,53190,MXD%,MXD%,17,0
